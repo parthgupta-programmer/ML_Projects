@@ -1,0 +1,2001 @@
+StudentID,Student_Name,City,C++_Score,Deep_Learning_Hours,Cloud_Hackathon,Placed_Tech
+2860,Amit Patel,NEW DELHI,78.9,-37.6,No,0.0
+1353,Rahul Kumar,ghaziabad,76.7,,Yes,1.0
+2333,Vikram Patel,Gorakhpur,104.4,-40.0,Yes,1.0
+1905,Amit Joshi,NEW DELHI,42.7,32.8,Yes,0.0
+2289,Kavya Kumar,Gorakhpur,100.5,50.7,No,1.0
+2273,Arjun Desai,Roorkee,447.6,-33.1,No,0.0
+1938,Anjali Kumar,New Delhi,103.4,35.4,No,0.0
+2731,Aarav Gupta,Gorakhpur,,28.3,No,0.0
+1065,Arjun Patel,NEW DELHI,51.7,40.7,No,0.0
+2323,Rahul Singh,NEW DELHI,78.7,50.5,Yes,1.0
+1056,Rohan Desai,Gorakhpur,75.9,64.6,Yes,1.0
+2292,Kavya Gupta,NEW DELHI,,37.8,Yes,0.0
+2118,Arjun Desai,Gorakhpur,,-47.4,No,0.0
+1584,Ishaan Kapoor,Gorakhpur,76.6,39.4,No,0.0
+1374,Rahul Kapoor,Roorkee,62.1,47.0,Yes,1.0
+1275,Anjali Gupta,Ghaziabad,79.3,60.8,Yes,1.0
+1746,Sneha Reddy,Gorakhpur,102.9,58.9,Yes,1.0
+1128, meera joshi ,Gorakhpur,26.4,29.8,No,0.0
+2646,Aarav Verma,ghaziabad,72.3,35.1,Yes,1.0
+2852,Ishaan Desai,Roorkee,47.5,27.7,Yes,0.0
+1674,Sneha Kapoor,Roorkee,88.2,47.6,Yes,1.0
+2664,Sneha Gupta,Roorkee,63.4,35.6,Yes,0.0
+1161,Kavya Singh,Roorkee ,74.8,31.0,Yes,
+2083,Rohan Singh,Gorakhpur,,33.4,,0.0
+2922, arjun reddy ,Roorkee,89.2,-39.4,No,0.0
+1099,Neha Kumar,Ghaziabad,54.3,,Yes,0.0
+2179,Rohan Joshi,Ghaziabad,62.6,,N,0.0
+1964,Karan Sharma,New Delhi,79.0,36.6,No,0.0
+1792,Sneha Sharma,NEW DELHI,751.0,41.5,Yes,1.0
+1029,Ishaan Singh,NEW DELHI,71.9,33.8,No,0.0
+1628,Rahul Kumar,Ghaziabad,76.4,33.2,No,0.0
+1944,Riya Kumar,ghaziabad,73.6,42.3,Yes,1.0
+1572,Amit Gupta,New Delhi,,55.5,No,1.0
+1907, arjun kumar ,New Delhi,73.0,40.8,No,0.0
+2080,Priya Joshi,NEW DELHI,68.6,45.9,Yes,1.0
+1450,Aarav Verma,Gorakhpur,97.4,42.1,No,0.0
+2609,Aarav Patel,Roorkee,76.5,31.6,No,0.0
+2290,Amit Reddy,New Delhi,77.9,49.4,No,1.0
+2078,Riya Reddy,Ghaziabad,41.8,55.3,No,1.0
+1254,Priya Joshi,New Delhi,76.5,47.5,,1.0
+1124,Riya Sharma,Roorkee,52.2,35.2,No,0.0
+2927,Rahul Sharma,New Delhi,57.3,41.7,No,0.0
+1251, meera singh ,New Delhi,71.4,30.9,No,0.0
+1585,Aarav Joshi,Roorkee,63.7,37.2,No,0.0
+2568,Vikram Singh,Roorkee,88.9,45.4,Yes,1.0
+1824,Riya Patel,Gorakhpur,92.8,65.9,No,1.0
+1507, sneha reddy ,Roorkee,65.2,35.2,Yes,
+1889,Priya Kumar,Gorakhpur,325.7,47.6,No,1.0
+1070,Riya Singh,New Delhi,78.4,53.1,No,1.0
+2608,Priya Reddy,Roorkee,84.1,67.7,Yes,1.0
+2532, priya desai ,Gorakhpur,73.7,39.6,No,0.0
+1247,Amit Kapoor,New Delhi,65.2,35.1,Yes,0.0
+2450, rahul joshi ,NEW DELHI,62.6,33.9,Yes,0.0
+1212,Priya Kapoor,New Delhi,67.7,53.3,No,1.0
+1909,Meera Reddy,Gorakhpur,77.5,44.4,Yes,1.0
+2741, meera singh ,New Delhi,95.6,,No,0.0
+2244,Rahul Gupta,Gorakhpur,338.8,37.1,No,0.0
+2696,Karan Joshi,Ghaziabad,,-34.4,Yes,0.0
+2182,Kavya Singh,gorakhpur,76.3,44.0,No,0.0
+1361, anjali kumar ,New Delhi,,23.0,Yes,0.0
+2473,Neha Reddy,Gorakhpur,82.3,24.5,Yes,1.0
+1678,Amit Kumar,gorakhpur,76.6,28.8,No,0.0
+2621,Ishaan Kumar,New Delhi,90.5,-48.2,N/A,0.0
+2089,Karan Gupta,ghaziabad,,40.0,Yes,0.0
+2695,Anjali Reddy,Roorkee,67.8,27.4,No,0.0
+2847,Karan Singh,New Delhi,79.3,34.4,No,0.0
+1987,Amit Desai,ghaziabad,65.4,44.3,No,0.0
+2512,Aarav Desai,New Delhi,110.3,13.4,No,0.0
+1111,Meera Sharma,Gorakhpur,64.3,,Yes,0.0
+2487,Sneha Joshi,NEW DELHI,75.9,44.5,Yes,1.0
+2453,Anjali Sharma,New Delhi,80.3,,No,0.0
+1383,Vikram Singh,Ghaziabad,227.8,51.4,No,1.0
+2395,Kavya Kapoor,Gorakhpur,76.0,44.5,Yes,1.0
+2054,Meera Sharma,Gorakhpur,42.6,-42.6,Yes,0.0
+1755,Rahul Sharma,Gorakhpur,82.2,26.3,Yes,1.0
+1324,Arjun Joshi,New Delhi,78.0,38.6,No,0.0
+2623, neha singh ,Gorakhpur,,54.4,Yes,1.0
+1787,Amit Reddy,Gorakhpur,76.2,43.5,No,0.0
+1368,Karan Gupta,New Delhi,77.8,32.4,Yes,1.0
+2819, amit patel ,Gorakhpur,53.5,,Yes,
+1069,Riya Sharma,Gorakhpur,87.2,-27.7,Y,1.0
+1857,Ishaan Kapoor,Roorkee,68.5,47.5,Yes,1.0
+2483,Amit Patel,Roorkee,77.9,44.5,Yes,1.0
+2555,Ishaan Sharma,New Delhi,68.0,25.7,No,0.0
+2691,Karan Joshi,Gorakhpur,77.1,55.9,Yes,1.0
+2474,Sneha Sharma,Gorakhpur,91.2,,No,0.0
+2798,Priya Sharma,Gorakhpur,93.0,47.8,Yes,1.0
+1478,Rohan Reddy,Roorkee,93.7,,No,0.0
+1281,Sneha Singh,New Delhi,79.9,37.8,Yes,1.0
+2647,Kavya Sharma,Roorkee ,708.7,40.2,N,0.0
+2556,Vikram Kapoor,Gaziabad,86.4,,Yes,1.0
+2729, aarav verma ,Gorakhpur,82.5,15.1,Yes,1.0
+1210,Rahul Sharma,Roorkee,88.3,38.6,Yes,1.0
+1297,Rohan Sharma,New  Delhi,81.2,58.8,Yes,1.0
+2884,Priya Patel,gorakhpur,63.3,29.8,N/A,0.0
+2833,Anjali Gupta,Gorakhpur,53.9,35.9,No,0.0
+1651, anjali gupta ,Gaziabad,75.8,41.7,Yes,1.0
+2233,Kavya Joshi,Gorakhpur,57.8,26.4,No,0.0
+2502,Amit Desai,New Delhi,101.3,40.2,Yes,1.0
+2931, karan reddy ,Ghaziabad,93.7,26.7,No,0.0
+1916,Kavya Kumar,Roorkee,74.5,37.9,Yes,1.0
+1993,Meera Sharma,Roorkee,63.1,36.9,N,0.0
+1429, neha desai ,Ghaziabad,84.9,60.1,No,1.0
+2370,Neha Reddy,Gorakhpur,,30.0,N/A,0.0
+1239,Arjun Sharma,Roorkee,100.3,,No,0.0
+1879,Vikram Joshi,Gorakhpur,76.1,24.0,No,0.0
+1620,Anjali Patel,Gorakhpur,66.2,38.0,No,0.0
+1256,Anjali Kumar,Gorakhpur,65.1,45.7,Yes,1.0
+1611,Ishaan Gupta,Roorkee,,42.7,Yes,0.0
+1544,Arjun Kumar,Roorkee ,73.9,-39.6,No,0.0
+1771,Riya Singh,New Delhi,787.9,43.0,No,0.0
+2419,Aarav Sharma,Roorkee,93.0,,Yes,1.0
+2041,Amit Singh,Ghaziabad,77.9,38.5,Yes,1.0
+2789,Ishaan Desai,New  Delhi,89.9,34.1,Yes,1.0
+1759,Ishaan Desai,New  Delhi,92.2,37.0,Yes,1.0
+1382,Rahul Reddy,New  Delhi,,49.3,No,1.0
+2103,Rohan Singh,Gorakhpur,64.3,-34.0,Yes,0.0
+1973,Rahul Gupta,ghaziabad,74.2,42.9,No,0.0
+1352,Anjali Singh,Gorakhpur,74.4,51.0,No,1.0
+2605, meera singh ,Roorkee,69.3,42.8,N,0.0
+2825,Rohan Joshi,Roorkee,816.5,22.1,Y,1.0
+2036,Kavya Joshi,Ghaziabad,89.6,56.0,No,1.0
+2107,Meera Patel,Ghaziabad,,66.3,No,1.0
+1494,Meera Kumar,Gorakhpur,61.9,,No,0.0
+1393,Amit Desai,New Delhi,74.4,46.8,Yes,1.0
+2546,Kavya Kapoor,Gorakhpur,94.9,43.1,No,0.0
+1464,Sneha Reddy,Roorkee,84.7,49.9,Yes,1.0
+1886,Rohan Gupta,New Delhi,,39.6,Yes,0.0
+2193,Priya Verma,Roorkee,70.1,23.8,No,0.0
+1366,Anjali Verma,Roorkee,65.6,40.3,No,0.0
+2893,Meera Kumar,Gorakhpur,68.2,32.1,No,0.0
+2873,Karan Sharma,Ghaziabad,69.0,28.2,Yes,0.0
+1744,Meera Kumar,Roorkee,108.2,-37.0,No,0.0
+1529,Amit Joshi,Gorakhpur,86.6,11.5,Yes,1.0
+1802,Meera Gupta,Gorakhpur,92.4,32.3,,0.0
+2223,Rohan Reddy,gorakhpur,101.2,29.8,No,0.0
+1366,Anjali Verma,Roorkee,65.6,40.3,No,0.0
+2905, kavya patel ,New Delhi,74.0,45.4,Yes,1.0
+2699, arjun verma ,New Delhi,75.3,28.3,Yes,1.0
+2544,Arjun Sharma,Ghaziabad,59.4,23.7,Yes,0.0
+2313,Rohan Gupta,Gorakhpur,,46.4,No,1.0
+1306,Ishaan Patel,Ghaziabad,54.9,58.9,No,1.0
+2666,Sneha Reddy,ghaziabad,63.7,41.7,Yes,0.0
+1862,Meera Reddy,Gorakhpur,61.3,40.9,No,0.0
+2566,Amit Verma,New Delhi,47.5,32.2,No,0.0
+1530, rohan desai ,Roorkee,,22.6,No,0.0
+1654,Neha Gupta,Ghaziabad,65.2,,Yes,0.0
+2259,Aarav Kapoor,Ghaziabad,105.4,49.6,Yes,1.0
+1233,Meera Joshi,Ghaziabad,,43.1,No,0.0
+1120,Amit Gupta,Ghaziabad,67.9,33.5,No,0.0
+2697,Amit Kumar,gorakhpur,31.1,60.5,N,1.0
+1949,Priya Sharma,Roorkee,84.6,45.0,Yes,1.0
+1617,Amit Kapoor,Gorakhpur,79.5,34.7,Yes,1.0
+2178,Riya Desai,Ghaziabad,58.4,23.4,Yes,0.0
+1307, rahul joshi ,New Delhi,935.8,41.0,No,0.0
+1135,Sneha Desai,Roorkee,72.0,40.6,No,0.0
+1554,Vikram Verma,Ghaziabad,72.1,42.2,Yes,1.0
+2673,Amit Kapoor,New Delhi,114.5,,Yes,1.0
+1583,Aarav Singh,New Delhi,86.4,42.8,Yes,1.0
+2640,Arjun Reddy,New Delhi,86.5,,No,0.0
+1670, riya gupta ,gorakhpur,59.3,37.9,Yes,0.0
+1834,Meera Kapoor,gorakhpur,87.6,45.5,Y,1.0
+1109,Vikram Patel,New Delhi,,50.9,Yes,1.0
+2164,Sneha Gupta,Gaziabad,93.3,-31.3,No,0.0
+1650,Sneha Desai,New Delhi,59.5,53.1,No,1.0
+2464,Neha Desai,Gorakhpur,,64.1,No,1.0
+2728,Karan Kapoor,New Delhi,94.2,17.8,No,0.0
+2242,Sneha Sharma,New Delhi,,57.4,No,1.0
+1211,Amit Singh,Gaziabad,78.0,18.3,No,0.0
+2767,Meera Singh,Ghaziabad,60.4,50.1,No,1.0
+2120,Kavya Kapoor,Ghaziabad,76.6,50.5,Yes,1.0
+1679,Karan Patel,Roorkee,,,No,0.0
+2012,Anjali Reddy,Gorakhpur,80.0,30.5,No,0.0
+2838,Aarav Singh,Ghaziabad,56.5,25.1,Yes,0.0
+1411,Rohan Patel,New Delhi,59.9,32.3,No,0.0
+2324,Amit Reddy,Roorkee,77.2,40.2,No,0.0
+1782,Kavya Gupta,Gorakhpur,85.5,41.0,Yes,1.0
+2345,Kavya Singh,gorakhpur,645.1,38.0,No,0.0
+1874,Riya Patel,Ghaziabad,47.8,,Yes,0.0
+2652,Neha Joshi,New Delhi,77.6,45.1,Yes,1.0
+2278,Neha Reddy,Gorakhpur,72.0,-39.9,Yes,1.0
+1785,Meera Singh,Roorkee,58.3,45.7,N,1.0
+2818,Karan Joshi,Gorakhpur,81.4,40.4,No,0.0
+2198,Sneha Reddy,Ghaziabad,50.9,35.6,N/A,0.0
+1807,Priya Gupta,Roorkee,76.3,48.8,No,1.0
+1712, anjali sharma ,Ghaziabad,71.7,37.2,No,0.0
+1607,Priya Verma,ghaziabad,648.0,61.5,No,1.0
+2659, arjun patel ,Roorkee,89.9,42.5,No,0.0
+2190,Rahul Sharma,New  Delhi,,47.2,No,1.0
+2225,Arjun Kumar,New Delhi,83.1,29.6,Yes,1.0
+1602,Anjali Reddy,Roorkee ,54.0,57.5,No,1.0
+1270, karan patel ,Ghaziabad,76.3,38.4,No,0.0
+2384,Amit Joshi,Roorkee,67.1,20.4,No,0.0
+1231,Karan Desai,Roorkee,,53.7,No,1.0
+1049,Karan Gupta,Roorkee,75.1,37.7,No,0.0
+1462,Arjun Joshi,New Delhi,49.5,35.9,Yes,0.0
+2105, rohan joshi ,Gorakhpur,78.2,38.1,Y,1.0
+1855,Riya Verma,Roorkee,72.2,30.6,Yes,1.0
+1693,Anjali Joshi,Gorakhpur,76.3,-57.2,Yes,1.0
+2551,Neha Singh,New Delhi,73.6,35.8,No,0.0
+2872,Karan Verma,New Delhi,69.3,,No,
+1526,Rohan Joshi,Roorkee,66.7,33.3,No,0.0
+1173,Aarav Sharma,Roorkee,74.7,30.0,Yes,1.0
+1720,Vikram Gupta,Roorkee,81.0,33.5,Yes,1.0
+1414,Amit Kumar,Roorkee,89.8,37.9,No,0.0
+1237,Meera Verma,Gaziabad,63.7,25.8,Yes,0.0
+2472,Vikram Singh,Ghaziabad,83.3,26.6,Yes,1.0
+2335, vikram verma ,Roorkee,63.9,35.1,No,0.0
+2063,Arjun Verma,New Delhi,71.9,33.5,Y,1.0
+1023,Aarav Joshi,Ghaziabad,68.1,50.6,Yes,1.0
+2766,Meera Joshi,Gorakhpur,93.9,51.5,Yes,1.0
+1063,Vikram Singh,Ghaziabad,60.1,34.3,Yes,0.0
+1289,Rohan Verma,Gorakhpur,87.5,31.4,No,0.0
+1188,Kavya Singh,gorakhpur,63.6,41.5,,0.0
+1701,Rohan Singh,Roorkee,63.3,48.8,No,1.0
+2814,Kavya Desai,Roorkee,91.0,54.5,Yes,1.0
+2137, ishaan desai ,Gorakhpur,75.5,30.4,Yes,1.0
+1354,Anjali Sharma,Ghaziabad,69.5,39.4,Yes,0.0
+1416,Priya Kapoor,Ghaziabad,58.2,43.8,No,0.0
+2245,Rohan Singh,New Delhi,111.4,,No,0.0
+1930,Neha Kumar,New Delhi,90.5,,No,0.0
+1196, riya gupta ,New Delhi,51.1,34.0,No,0.0
+1579,Anjali Joshi,Roorkee,54.2,23.5,No,0.0
+2134,Priya Joshi,New Delhi,83.5,41.1,No,0.0
+2813,Vikram Patel,Roorkee,89.0,37.8,Yes,1.0
+2934,Amit Patel,ghaziabad,66.0,-16.1,No,0.0
+1433,Anjali Sharma,Roorkee,67.2,,No,0.0
+1100, priya kapoor ,Roorkee,82.7,,No,0.0
+2654,Karan Verma,Ghaziabad,48.0,54.9,No,1.0
+1394,Neha Kapoor,Gorakhpur,75.4,,Yes,1.0
+2938,Rahul Patel,Roorkee ,82.7,,No,
+1220,Kavya Gupta,Roorkee,86.2,,No,0.0
+2675,Kavya Kapoor,New Delhi,95.7,39.2,No,0.0
+2497,Karan Reddy,Gorakhpur,92.4,52.9,No,1.0
+2784,Vikram Sharma,Roorkee,76.6,40.8,Yes,1.0
+1344, priya reddy ,Gorakhpur,88.9,38.2,No,0.0
+2027,Amit Verma,Ghaziabad,68.4,41.4,Yes,0.0
+1888,Rahul Patel,Roorkee,53.9,-39.2,Yes,0.0
+2350,Kavya Kumar,Roorkee,81.4,36.6,No,0.0
+1552,Amit Sharma,Roorkee,84.2,29.5,Yes,1.0
+1743,Amit Verma,Ghaziabad,77.7,31.6,Yes,1.0
+2541,Vikram Reddy,Ghaziabad,73.3,31.0,Yes,1.0
+1538,Riya Sharma,Ghaziabad,97.5,-48.5,Yes,1.0
+1906,Priya Reddy,New Delhi,71.8,,No,0.0
+2394,Kavya Sharma,Roorkee,80.7,38.1,No,0.0
+1115,Karan Reddy,Gorakhpur,44.6,41.9,Yes,0.0
+1829,Kavya Gupta,Gaziabad,59.9,51.4,N,1.0
+2937,Rahul Reddy,Roorkee,70.8,27.2,N/A,0.0
+1808,Neha Kapoor,Roorkee,60.4,39.9,Y,0.0
+2310,Meera Verma,Ghaziabad,66.9,40.7,No,0.0
+2004,Ishaan Desai,Ghaziabad,29.7,41.8,No,0.0
+1305,Rahul Singh,Ghaziabad,78.8,28.6,No,0.0
+2100, kavya joshi ,Gorakhpur,92.9,34.1,No,0.0
+1479, amit sharma ,New Delhi,59.5,39.5,Yes,0.0
+2423,Neha Joshi,Roorkee,68.8,28.7,No,0.0
+2075,Neha Desai,Gorakhpur,727.0,,No,0.0
+1570,Rahul Verma,Gorakhpur,76.8,29.7,Yes,1.0
+1618, ishaan sharma ,New Delhi,50.7,45.6,Yes,1.0
+2897,Kavya Joshi,Roorkee,77.1,50.0,No,1.0
+2265, aarav singh ,Ghaziabad,80.0,37.0,Yes,1.0
+1078,Ishaan Desai,Gorakhpur,,30.5,No,0.0
+2911,Aarav Kumar,Gaziabad,95.9,47.1,Yes,1.0
+1032,Karan Singh,Ghaziabad,92.7,31.0,Yes,1.0
+2537,Kavya Kumar,Ghaziabad,87.7,,No,0.0
+2033, anjali kumar ,Roorkee,69.1,44.8,No,0.0
+2562,Kavya Reddy,New  Delhi,84.1,51.2,No,1.0
+1351,Rahul Patel,New Delhi,66.8,44.0,No,0.0
+1163,Neha Gupta,New Delhi,,38.5,No,0.0
+1203,Karan Desai,Roorkee ,,55.5,No,1.0
+2053,Ishaan Kapoor,Ghaziabad,89.7,32.6,No,0.0
+2364,Priya Verma,Roorkee,95.5,28.6,Yes,1.0
+2605, meera singh ,Roorkee,69.3,42.8,N,0.0
+1495,Ishaan Kumar,Gorakhpur,71.0,-39.1,Yes,1.0
+2624,Kavya Gupta,Roorkee,68.1,22.6,Yes,0.0
+1585,Aarav Joshi,Roorkee,63.7,37.2,No,0.0
+1969,Sneha Reddy,ghaziabad,61.4,33.5,No,0.0
+1610,Riya Desai,New  Delhi,93.4,56.2,No,1.0
+1432,Rohan Sharma,Ghaziabad,74.5,57.9,Yes,1.0
+2491,Sneha Sharma,NEW DELHI,451.1,42.2,Yes,1.0
+1218,Arjun Gupta,Gorakhpur,73.2,39.2,No,0.0
+2930,Sneha Patel,Roorkee,75.9,43.9,Yes,1.0
+2465,Kavya Joshi,ghaziabad,97.7,46.0,No,1.0
+1630,Aarav Gupta,Ghaziabad,61.3,40.8,N/A,0.0
+2381,Sneha Verma,Gaziabad,74.2,57.0,Yes,1.0
+2301,Rohan Reddy,Roorkee ,53.7,51.1,No,1.0
+1059,Riya Patel,gorakhpur,92.1,47.5,No,1.0
+1298, riya sharma ,Roorkee ,63.4,27.6,Yes,0.0
+2710,Arjun Joshi,Gorakhpur,,14.0,Yes,0.0
+1073,Neha Patel,Roorkee,766.3,26.8,No,0.0
+1162,Anjali Patel,New Delhi,76.1,33.2,No,0.0
+2274,Arjun Sharma,Gorakhpur,65.6,38.2,No,0.0
+2593,Riya Singh,Roorkee,59.0,37.2,No,0.0
+2433,Rahul Reddy,NEW DELHI,73.3,42.1,No,0.0
+2612,Arjun Joshi,NEW DELHI,70.8,33.8,Yes,1.0
+1591,Vikram Singh,Roorkee,60.3,37.8,Yes,0.0
+1316,Rohan Sharma,Roorkee,71.1,25.0,No,0.0
+1045,Kavya Singh,Roorkee,76.5,49.7,No,1.0
+2719,Karan Kumar,Ghaziabad,814.3,26.9,Yes,1.0
+2831,Vikram Reddy,Ghaziabad,75.0,,No,0.0
+1427,Arjun Verma,gorakhpur,65.8,36.1,No,0.0
+1581,Meera Patel,Ghaziabad,95.8,45.6,Yes,1.0
+1076,Arjun Reddy,Roorkee,,27.8,Yes,0.0
+2916,Priya Patel,Gorakhpur,,25.9,No,0.0
+2414,Sneha Gupta,NEW DELHI,66.0,,Yes,0.0
+1780,Neha Sharma,Ghaziabad,168.5,-37.2,Yes,1.0
+2919, amit joshi ,New Delhi,90.1,,No,0.0
+2173,Ishaan Desai,Ghaziabad,70.6,34.7,No,0.0
+2319,Arjun Sharma,Roorkee,91.2,26.9,,0.0
+1937,Rahul Kumar,New Delhi,,52.7,N,1.0
+1030,Riya Kumar,Gorakhpur,52.4,51.0,No,1.0
+2091,Aarav Joshi,Ghaziabad,,35.5,No,0.0
+2615,Neha Sharma,Gorakhpur,66.6,50.1,Yes,1.0
+2229,Ishaan Patel,Gorakhpur,,23.4,Yes,0.0
+1974,Neha Joshi,Gorakhpur,,46.5,No,1.0
+2084,Vikram Kumar,Roorkee,81.4,40.2,No,0.0
+1514,Arjun Reddy,New Delhi,71.1,23.3,Yes,1.0
+2550,Rohan Patel,Roorkee,69.2,41.6,Yes,0.0
+2567,Ishaan Singh,Ghaziabad,92.2,42.1,No,0.0
+2810,Aarav Sharma,ghaziabad,93.3,-50.6,No,0.0
+2573, rohan verma ,New Delhi,88.5,56.9,No,1.0
+1044,Meera Patel,New Delhi,,45.1,No,1.0
+2686,Ishaan Kapoor,Ghaziabad,82.8,39.0,No,0.0
+1168,Kavya Patel,Gorakhpur,67.9,42.3,Yes,0.0
+1303, rahul gupta ,Ghaziabad,741.5,47.3,Yes,1.0
+1990,Priya Reddy,Ghaziabad,63.5,42.1,No,0.0
+1555,Anjali Reddy,Roorkee,88.1,45.0,Yes,1.0
+2924, sneha kapoor ,New Delhi,69.8,-23.9,No,0.0
+1607,Priya Verma,ghaziabad,648.0,61.5,No,1.0
+2618,Rohan Kapoor,Roorkee,63.1,36.0,Yes,
+1757,Rahul Reddy,Roorkee,102.9,,Yes,1.0
+1438,Aarav Patel,Roorkee,83.8,,Yes,1.0
+1582,Aarav Patel,Roorkee ,83.9,48.5,No,1.0
+2518, ishaan patel ,ghaziabad,76.1,36.6,Y,1.0
+1527,Riya Singh,New Delhi,74.6,,No,0.0
+1342,Riya Gupta,Ghaziabad,83.9,36.9,Yes,1.0
+2736,Ishaan Joshi,Roorkee ,106.4,55.9,No,1.0
+1367,Sneha Gupta,Gorakhpur,82.8,32.7,Yes,1.0
+1185,Priya Singh,Gorakhpur,107.8,,Yes,1.0
+2116,Kavya Kapoor,gorakhpur,,36.3,No,0.0
+2754,Karan Desai,Roorkee ,93.8,43.9,Yes,1.0
+2425,Vikram Patel,Ghaziabad,67.0,-43.6,Yes,0.0
+1300,Neha Patel,Gorakhpur,84.8,39.4,No,0.0
+2903,Kavya Singh,New Delhi,,41.8,Yes,0.0
+1832,Rohan Joshi,New Delhi,94.5,39.8,Yes,1.0
+1543,Karan Reddy,Roorkee ,71.1,38.0,No,0.0
+2600,Meera Kapoor,ghaziabad,93.2,57.3,Yes,1.0
+1350,Neha Sharma,Gorakhpur,,,Yes,0.0
+2932,Aarav Patel,Gorakhpur,69.8,32.3,Yes,0.0
+2510,Arjun Singh,New Delhi,86.0,,No,0.0
+1978,Arjun Gupta,NEW DELHI,83.9,10.6,No,0.0
+1175,Sneha Desai,Ghaziabad,79.8,31.7,Yes,1.0
+1482,Anjali Desai,Ghaziabad,63.9,39.9,No,0.0
+2412, aarav reddy ,ghaziabad,104.1,26.0,No,0.0
+2610,Vikram Desai,Ghaziabad,,24.1,Yes,0.0
+1123,Anjali Sharma,gorakhpur,106.8,50.3,Yes,1.0
+1599,Ishaan Sharma,Gorakhpur,76.8,45.4,No,1.0
+2794, karan singh ,gorakhpur,108.3,40.1,No,0.0
+2745,Rahul Sharma,Roorkee,394.7,65.1,Yes,1.0
+2378,Neha Patel,Gorakhpur,80.9,20.7,Yes,1.0
+2185,Neha Singh,ghaziabad,97.5,52.5,Yes,1.0
+1485,Sneha Gupta,Gorakhpur,70.8,39.7,N/A,0.0
+1331,Vikram Desai,Ghaziabad,69.9,36.3,No,0.0
+1788,Aarav Desai,ghaziabad,62.9,36.8,Yes,0.0
+1194,Anjali Kumar,New Delhi,49.3,53.5,No,1.0
+1637,Anjali Verma,Gaziabad,67.1,43.6,No,0.0
+1471,Arjun Verma,ghaziabad,76.1,37.7,Yes,1.0
+2713,Kavya Kumar,Roorkee,98.0,46.6,No,1.0
+1322,Karan Desai,Roorkee ,113.6,40.6,No,0.0
+2196,Anjali Singh,Gorakhpur,62.0,38.6,No,0.0
+1266,Kavya Joshi,Gorakhpur,82.9,54.4,No,1.0
+2543,Rohan Verma,Gorakhpur,31.4,36.3,No,0.0
+2803,Arjun Reddy,Roorkee,71.9,58.1,Yes,1.0
+1067,Karan Kumar,Roorkee,61.2,55.5,Yes,1.0
+2737,Meera Kumar,New Delhi,85.2,31.9,No,0.0
+2592,Karan Patel,Ghaziabad,84.4,37.6,No,0.0
+2563,Neha Kumar,Ghaziabad,,-42.2,N,0.0
+1480,Karan Patel,Gorakhpur,80.6,32.4,No,
+2756,Arjun Kapoor,Gorakhpur,,48.3,Yes,1.0
+2912,Rahul Verma,New Delhi,81.4,43.8,No,0.0
+2440,Arjun Gupta,Gorakhpur,89.9,35.3,No,0.0
+2460,Sneha Kapoor,Roorkee,79.0,52.7,No,1.0
+1887,Rohan Kapoor,Ghaziabad,,33.1,Yes,0.0
+1422, rahul singh ,New Delhi,96.3,34.3,Yes,1.0
+2674,Ishaan Gupta,Ghaziabad,77.8,44.7,No,0.0
+2449,Meera Reddy,New Delhi,92.0,,Yes,1.0
+1764,Meera Singh,New Delhi,46.6,41.7,Yes,0.0
+1519,Kavya Singh,Gorakhpur,100.3,35.4,No,0.0
+2431,Ishaan Sharma,Ghaziabad,72.1,39.4,No,0.0
+1613,Sneha Reddy,Ghaziabad,79.7,40.0,N/A,0.0
+2530,Arjun Reddy,New  Delhi,46.4,53.2,Yes,1.0
+2782,Aarav Kumar,Ghaziabad,67.5,25.8,Yes,0.0
+2658,Arjun Desai,Roorkee,76.2,33.2,No,0.0
+1453,Anjali Gupta,Ghaziabad,93.1,25.6,Yes,1.0
+1730,Vikram Singh,Gorakhpur,,45.9,Yes,1.0
+1534,Amit Verma,New Delhi,74.3,44.8,No,0.0
+1965,Rohan Joshi,New Delhi,84.3,36.3,,0.0
+2284, amit desai ,Gorakhpur,81.1,-31.4,No,0.0
+2739,Riya Reddy,New Delhi,80.0,54.5,No,1.0
+1261,Ishaan Kumar,Gorakhpur,,27.9,Yes,0.0
+1535,Rohan Reddy,Ghaziabad,76.2,,Yes,1.0
+1968,Priya Gupta,Ghaziabad,48.4,52.6,No,1.0
+1240,Kavya Kapoor,New  Delhi,74.9,54.8,Yes,1.0
+1819, rahul kumar ,Gorakhpur,105.9,29.3,No,
+1692,Priya Kumar,Gorakhpur,57.1,40.6,Y,0.0
+1420,Riya Kumar,New Delhi,,34.4,No,0.0
+2085,Ishaan Verma,Ghaziabad,65.4,,Yes,0.0
+1442,Rohan Verma,Gorakhpur,95.7,46.5,Yes,1.0
+1365,Karan Singh,Gaziabad,47.4,27.2,Yes,0.0
+2022, rahul kumar ,Ghaziabad,98.5,26.7,N,0.0
+2240, rohan singh ,Gaziabad,60.2,45.3,Yes,1.0
+1588,Riya Kapoor,NEW DELHI,77.7,53.9,Yes,1.0
+1736,Ishaan Gupta,Ghaziabad,53.3,28.9,No,0.0
+2761,Riya Sharma,New Delhi,76.1,27.1,No,0.0
+1941,Riya Verma,Ghaziabad,73.5,44.1,,0.0
+1071,Amit Singh,Roorkee,50.9,,Yes,0.0
+2407, rohan singh ,Ghaziabad,87.4,39.7,No,0.0
+1259,Kavya Singh,New Delhi,78.9,31.0,Yes,1.0
+1051,Riya Kumar,Roorkee,69.9,32.0,Yes,0.0
+1198,Rahul Singh,Roorkee,70.3,24.0,Yes,1.0
+2788,Aarav Verma,Ghaziabad,70.6,35.5,No,
+1650,Sneha Desai,New Delhi,59.5,53.1,No,1.0
+1332, rohan singh ,Ghaziabad,,32.2,No,0.0
+2359, aarav joshi ,Gorakhpur,71.2,37.6,,0.0
+1593, rahul gupta ,Roorkee,76.6,26.7,Yes,1.0
+2391,Priya Verma,Roorkee,55.6,42.9,N,0.0
+2800,Amit Desai,New Delhi,81.0,32.8,Yes,1.0
+2314,Neha Sharma,Ghaziabad,64.4,41.3,Yes,0.0
+2111,Rahul Joshi,Roorkee,69.6,5.3,No,0.0
+2006,Rohan Verma,New Delhi,78.1,35.1,No,0.0
+2326,Neha Joshi,Gorakhpur,62.7,55.3,N/A,1.0
+1426,Rohan Gupta,Gorakhpur,98.2,58.0,No,1.0
+2558, rohan singh ,Roorkee ,69.4,,Yes,0.0
+2293,Vikram Patel,Ghaziabad,62.3,,Yes,0.0
+1590, anjali kumar ,Gorakhpur,60.2,49.4,No,1.0
+1321,Aarav Kumar,Gorakhpur,71.0,28.9,No,0.0
+1480,Karan Patel,Gorakhpur,80.6,32.4,No,
+2132,Priya Desai,New Delhi,102.0,43.8,Yes,1.0
+1985,Ishaan Patel,Ghaziabad,89.3,45.1,Yes,1.0
+1398,Priya Kapoor,Gorakhpur,78.3,35.2,Yes,1.0
+2511,Aarav Sharma,Gorakhpur,84.8,-35.3,N/A,0.0
+1436,Ishaan Kapoor,Gorakhpur,67.7,,Yes,0.0
+1192,Neha Patel,Roorkee,55.2,58.3,No,1.0
+2435,Karan Reddy,Roorkee,88.0,35.4,No,0.0
+1614,Meera Singh,Ghaziabad,81.2,,Yes,1.0
+2493,Vikram Reddy,Roorkee,81.0,44.3,Y,1.0
+1576,Neha Verma,Roorkee ,64.7,62.5,No,1.0
+1986,Rohan Verma,Ghaziabad,85.9,45.2,Yes,1.0
+2432,Riya Verma,NEW DELHI,76.4,42.5,Yes,1.0
+1706,Kavya Kumar,Ghaziabad,66.2,40.4,Yes,0.0
+2258,Arjun Joshi,New Delhi,74.3,-32.4,No,0.0
+1141,Riya Reddy,Gorakhpur,71.9,35.1,Yes,1.0
+2357,Kavya Sharma,Gorakhpur,72.3,24.5,Yes,1.0
+1002,Rahul Kapoor,New Delhi,71.5,37.7,Yes,1.0
+2221,Ishaan Gupta,Roorkee ,86.9,,Yes,1.0
+2869,Priya Gupta,Roorkee,,,No,0.0
+2622,Aarav Reddy,NEW DELHI,75.0,,Yes,1.0
+1339,Neha Gupta,gorakhpur,85.7,44.4,No,0.0
+2769,Rahul Verma,Roorkee,62.6,32.8,No,0.0
+2536, ishaan patel ,Ghaziabad,,37.3,Yes,0.0
+1483,Karan Verma,Roorkee,51.1,45.6,Yes,1.0
+1265,Arjun Sharma,Ghaziabad,87.5,28.7,Yes,1.0
+1376, amit patel ,gorakhpur,113.4,39.0,No,0.0
+1741,Meera Kumar,Gorakhpur,100.2,32.5,Yes,1.0
+2013,Karan Reddy,Ghaziabad,65.6,40.2,No,0.0
+1439, arjun desai ,NEW DELHI,83.9,-51.1,Yes,1.0
+1271,Arjun Reddy,Roorkee,92.5,42.5,Yes,1.0
+1184,Neha Joshi,New Delhi,88.1,41.8,No,0.0
+1939,Vikram Patel,Ghaziabad,74.3,28.5,No,0.0
+1244, ishaan verma ,Roorkee,61.9,,Yes,0.0
+1931,Anjali Kumar,New  Delhi,58.6,,Yes,0.0
+1445,Anjali Kumar,Gorakhpur,856.5,36.1,Yes,1.0
+1596, rahul sharma ,New Delhi,74.7,45.5,Yes,1.0
+1817,Riya Gupta,Roorkee,70.0,36.0,No,0.0
+2272,Ishaan Gupta,Roorkee,70.6,53.5,No,1.0
+2676,Ishaan Reddy,Ghaziabad,66.2,48.4,Yes,1.0
+1486,Aarav Joshi,Ghaziabad,72.4,33.1,Yes,1.0
+1680,Priya Patel,Ghaziabad,45.6,60.6,Yes,1.0
+1415,Amit Patel,Gorakhpur,74.3,46.7,Yes,1.0
+1273,Rahul Gupta,Gorakhpur,67.7,35.7,,0.0
+2471,Meera Singh,Ghaziabad,68.8,58.9,No,1.0
+2829,Anjali Kumar,Gorakhpur,76.3,56.5,No,1.0
+2454,Karan Sharma,New Delhi,,42.7,No,0.0
+1250,Ishaan Desai,Ghaziabad,79.1,,Yes,1.0
+1413,Rahul Joshi,Ghaziabad,98.3,,Yes,1.0
+2385,Priya Verma,New Delhi,67.6,43.4,Yes,0.0
+2307,Neha Kumar,NEW DELHI,60.8,54.3,Y,1.0
+1715,Neha Kapoor,Roorkee,72.5,-42.8,N/A,0.0
+1310,Karan Sharma,Roorkee,49.6,55.3,,1.0
+1926,Arjun Sharma,Gorakhpur,79.3,42.6,Yes,1.0
+1381,Aarav Singh,Ghaziabad,82.5,45.3,No,1.0
+2565,Arjun Reddy,Gorakhpur,55.3,57.7,No,1.0
+1425,Vikram Desai,Gorakhpur,78.0,24.8,No,0.0
+2874,Kavya Reddy,ghaziabad,983.1,42.7,No,0.0
+1532,Priya Kumar,Ghaziabad,55.6,51.6,No,1.0
+1752,Amit Sharma,Roorkee,,48.0,N,1.0
+1765,Kavya Gupta,Ghaziabad,864.8,38.1,No,0.0
+2356,Amit Patel,Gorakhpur,71.9,32.5,Yes,1.0
+1408,Amit Singh,New Delhi,98.7,34.8,Yes,1.0
+2614,Arjun Verma,gorakhpur,91.0,40.9,No,0.0
+1694,Karan Desai,Ghaziabad,71.6,40.9,No,0.0
+2738,Arjun Verma,Roorkee,74.3,38.4,,0.0
+1548,Sneha Sharma,New Delhi,88.7,,No,0.0
+1936,Aarav Reddy,Roorkee,724.9,,Y,1.0
+2389,Vikram Verma,Gorakhpur,43.5,48.6,No,1.0
+2607,Arjun Joshi,New Delhi,75.4,37.0,No,0.0
+2939,Rahul Singh,Ghaziabad,107.8,45.7,Yes,1.0
+2481,Karan Gupta,Gorakhpur,,51.5,No,1.0
+1182,Karan Kapoor,Ghaziabad,96.8,49.6,No,1.0
+2940,Karan Singh,New Delhi,66.3,33.9,No,0.0
+2160,Sneha Joshi,Gorakhpur,93.2,-42.6,Yes,1.0
+1170,Aarav Kumar,gorakhpur,,,Yes,0.0
+1292,Ishaan Gupta,Gorakhpur,,34.9,No,0.0
+1561,Vikram Verma,Ghaziabad,99.5,28.5,No,0.0
+2456, riya kumar ,New  Delhi,,59.9,Yes,1.0
+2876,Rahul Kapoor,Ghaziabad,93.0,25.2,No,0.0
+2651,Meera Kumar,New Delhi,,32.2,N/A,0.0
+1849,Aarav Kumar,New Delhi,56.8,48.3,No,1.0
+1272,Meera Patel,Ghaziabad,80.1,35.9,No,0.0
+2549,Anjali Kumar,Gorakhpur,57.7,-22.5,Yes,0.0
+2034,Arjun Patel,Gorakhpur,69.4,,Yes,0.0
+2743,Karan Patel,Roorkee,58.3,-39.6,Yes,0.0
+1371,Kavya Patel,New Delhi,60.4,50.5,No,1.0
+2669,Sneha Kumar,Roorkee,,44.3,No,0.0
+1721,Rohan Kumar,Roorkee,67.1,,Yes,0.0
+1733,Kavya Reddy,Roorkee,92.9,33.9,No,0.0
+1777,Ishaan Gupta,Roorkee,97.4,37.3,Yes,1.0
+1518,Meera Verma,Roorkee,78.4,,Yes,1.0
+1334,Kavya Reddy,New Delhi,89.0,52.7,Yes,1.0
+1845,Sneha Sharma,Roorkee,95.6,50.1,Yes,1.0
+2251,Sneha Patel,New Delhi,79.9,49.2,Yes,1.0
+2052, amit verma ,Ghaziabad,71.4,41.9,Yes,1.0
+2923,Rohan Joshi,New Delhi,102.8,42.2,Yes,1.0
+1015,Kavya Sharma,gorakhpur,66.0,58.5,No,1.0
+1707,Amit Kumar,Ghaziabad,96.8,58.0,Yes,1.0
+1900,Meera Sharma,New Delhi,79.0,45.1,Yes,1.0
+1453,Anjali Gupta,Ghaziabad,93.1,25.6,Yes,1.0
+2572,Priya Verma,New  Delhi,,48.9,Yes,1.0
+1903, aarav joshi ,Gorakhpur,99.2,49.0,Yes,1.0
+1465,Rohan Kapoor,Roorkee,91.8,53.1,N/A,1.0
+2586,Kavya Reddy,New Delhi,96.6,17.9,No,0.0
+1199,Rohan Joshi,Gaziabad,,45.4,No,1.0
+2206,Vikram Joshi,New Delhi,81.1,44.5,No,0.0
+2055,Amit Singh,gorakhpur,89.8,26.5,No,0.0
+2131,Riya Desai,Gorakhpur,66.0,42.3,Yes,0.0
+2379,Aarav Kapoor,gorakhpur,70.8,48.5,Yes,1.0
+1998,Anjali Joshi,Ghaziabad,63.5,30.6,No,0.0
+1727,Arjun Singh,New Delhi,94.3,46.7,Yes,1.0
+2771,Vikram Sharma,Roorkee,86.7,32.1,Yes,1.0
+2909,Priya Patel,New Delhi,63.0,,No,0.0
+2821,Anjali Sharma,gorakhpur,,,No,0.0
+1567,Sneha Kumar,Roorkee,92.8,27.7,No,0.0
+1043,Rohan Sharma,Roorkee,88.7,43.3,No,0.0
+1274,Arjun Verma,Ghaziabad,80.9,35.8,No,0.0
+2096,Riya Desai,Ghaziabad,993.3,38.2,Yes,
+1101,Ishaan Kapoor,Ghaziabad,82.7,,Yes,1.0
+2231,Riya Reddy,Roorkee,90.7,35.3,No,0.0
+2721,Sneha Patel,Roorkee,67.5,26.3,Yes,0.0
+2832,Meera Gupta,NEW DELHI,,46.2,No,1.0
+1107,Vikram Gupta,New  Delhi,109.7,,Yes,1.0
+2617,Riya Patel,Roorkee,93.1,51.4,No,1.0
+1497,Meera Joshi,New Delhi,102.0,46.4,Yes,1.0
+1789,Arjun Singh,ghaziabad,68.6,34.6,Yes,0.0
+1881,Ishaan Patel,Roorkee ,107.6,38.2,Y,1.0
+1756,Neha Joshi,Ghaziabad,77.8,45.8,Yes,1.0
+1619,Karan Reddy,NEW DELHI,58.5,,Yes,0.0
+2106,Amit Sharma,New  Delhi,51.9,59.8,Y,1.0
+2935,Neha Gupta,Roorkee,68.8,49.1,Yes,1.0
+1809,Vikram Kumar,Ghaziabad,90.6,45.1,No,1.0
+2037,Meera Kumar,gorakhpur,63.9,35.8,No,0.0
+1072,Vikram Joshi,Roorkee,78.9,47.8,Yes,1.0
+2283,Rahul Gupta,Roorkee,,54.1,Yes,1.0
+2271,Neha Verma,Gorakhpur,72.1,-33.4,Yes,1.0
+2334,Rahul Gupta,Roorkee,90.2,,Yes,1.0
+2458,Arjun Gupta,New Delhi,94.0,-31.5,Yes,1.0
+1481, aarav gupta ,Gaziabad,54.6,36.8,Y,0.0
+2068,Arjun Verma,New Delhi,55.5,,No,0.0
+1506,Rohan Kumar,New Delhi,101.0,42.0,Yes,1.0
+2237,Arjun Joshi,Ghaziabad,88.8,44.8,Yes,1.0
+2861,Rahul Verma,Gorakhpur,,36.7,N,0.0
+2301,Rohan Reddy,Roorkee ,53.7,51.1,No,1.0
+2476,Aarav Reddy,Roorkee,92.3,34.8,No,0.0
+2866,Aarav Joshi,gorakhpur,61.6,45.1,Yes,1.0
+2455,Ishaan Verma,Roorkee,46.3,39.3,No,0.0
+1311,Riya Joshi,Roorkee ,72.6,-35.7,Yes,1.0
+1962,Priya Joshi,Roorkee,91.3,,Yes,1.0
+1405,Anjali Kapoor,Roorkee,67.2,54.1,Yes,1.0
+2330,Ishaan Kapoor,New Delhi,66.1,41.2,No,0.0
+2649,Priya Joshi,Gorakhpur,71.8,49.6,Yes,1.0
+1309, kavya patel ,Gorakhpur,75.8,50.9,No,1.0
+1226, priya singh ,Gorakhpur,,42.1,Yes,0.0
+2857, amit singh ,New Delhi,79.7,31.1,No,0.0
+1710,Ishaan Desai,Roorkee,59.3,20.3,Yes,0.0
+2943,Sneha Patel,Roorkee,64.0,58.9,Yes,1.0
+2383,Vikram Verma,NEW DELHI,495.4,36.3,Yes,1.0
+2785,Ishaan Reddy,Gorakhpur,95.1,33.1,Yes,
+1148,Neha Kapoor,ghaziabad,74.7,41.2,Yes,1.0
+2554,Vikram Verma,ghaziabad,70.3,46.1,,1.0
+1348,Meera Joshi,gorakhpur,55.8,57.5,No,1.0
+1925,Karan Joshi,Ghaziabad,95.9,37.5,Yes,1.0
+1942,Sneha Reddy,Gorakhpur,58.5,36.4,,0.0
+1836,Kavya Gupta,Roorkee,69.1,30.8,N/A,0.0
+1575,Kavya Kumar,Gorakhpur,717.3,-33.0,No,0.0
+1557, karan verma ,Roorkee,111.1,39.4,Yes,1.0
+2235,Rohan Singh,gorakhpur,577.2,18.6,Yes,1.0
+2360,Meera Gupta,NEW DELHI,74.1,44.8,No,0.0
+2347,Rohan Singh,Gorakhpur,62.9,-38.5,Yes,0.0
+2161,Karan Sharma,Gorakhpur,69.5,41.4,,0.0
+2442,Rohan Sharma,New Delhi,79.9,28.5,No,0.0
+1286,Rohan Verma,Gorakhpur,84.5,62.7,Yes,1.0
+2604, neha sharma ,Gorakhpur,98.0,33.4,N/A,0.0
+2057, karan sharma ,New Delhi,40.9,,No,0.0
+1598,Sneha Joshi,Roorkee,76.9,35.7,No,0.0
+1932,Rahul Joshi,Ghaziabad,58.4,37.9,Yes,0.0
+2461,Amit Singh,ghaziabad,86.0,42.9,,0.0
+2637,Rohan Patel,Roorkee ,84.0,30.8,No,0.0
+2587,Karan Verma,New Delhi,66.8,,No,0.0
+2040,Vikram Kumar,New  Delhi,98.2,-32.4,No,
+2230,Rahul Sharma,New Delhi,42.8,45.3,No,1.0
+1806,Vikram Gupta,Roorkee,74.1,32.6,No,0.0
+1904,Karan Verma,Gorakhpur,71.0,,Yes,1.0
+2679,Rahul Patel,New Delhi,77.0,34.1,Yes,1.0
+2204,Rahul Desai,Gorakhpur,100.6,-37.0,Yes,1.0
+1767,Rohan Verma,New Delhi,57.5,11.3,Yes,0.0
+1609,Sneha Joshi,Ghaziabad,69.7,,Yes,0.0
+1396, meera sharma ,Ghaziabad,76.4,35.4,Yes,1.0
+2564,Sneha Gupta,Gorakhpur,,21.7,Yes,0.0
+2422,Anjali Patel,New Delhi,52.2,47.5,No,1.0
+2010,Anjali Gupta,Roorkee,63.9,-48.9,No,0.0
+1493,Arjun Gupta,ghaziabad,82.9,57.8,N,1.0
+2320, priya kumar ,Ghaziabad,84.3,53.3,No,1.0
+1277,Sneha Verma,New  Delhi,93.0,35.9,No,0.0
+2846,Meera Patel,New Delhi,78.7,23.7,Y,1.0
+1358,Karan Verma,New Delhi,75.3,43.5,No,0.0
+2110,Rohan Reddy,Gorakhpur,96.2,35.9,No,0.0
+1236,Rohan Singh,Ghaziabad,50.9,42.0,Yes,0.0
+1551,Rahul Singh,Ghaziabad,91.6,29.6,No,0.0
+2867,Ishaan Sharma,Ghaziabad,75.5,20.3,No,0.0
+2812,Ishaan Desai,Roorkee ,66.4,43.3,No,0.0
+1208,Riya Joshi,Ghaziabad,68.5,36.6,Yes,0.0
+2386,Arjun Joshi,Gorakhpur,78.9,27.4,No,0.0
+2560,Anjali Kapoor,Roorkee ,96.0,28.6,No,0.0
+1058,Riya Sharma,Roorkee,74.5,28.3,Yes,1.0
+1631,Aarav Joshi,Roorkee ,,36.9,Yes,0.0
+1258, amit joshi ,Gorakhpur,50.6,40.5,N,0.0
+2859,Rohan Gupta,Gorakhpur,83.8,35.9,No,
+2816,Aarav Gupta,Gorakhpur,72.9,-43.1,No,0.0
+1363,Priya Desai,Ghaziabad,78.8,49.8,No,1.0
+1505,Anjali Singh,Gorakhpur,106.1,33.1,No,0.0
+2165,Aarav Patel,New Delhi,64.7,38.5,Yes,0.0
+2121,Vikram Desai,Ghaziabad,66.4,23.3,No,0.0
+2629,Rohan Joshi,Ghaziabad,92.7,62.8,No,1.0
+2216, anjali sharma ,Ghaziabad,87.5,29.8,No,0.0
+2151,Meera Kapoor,Roorkee,,,No,0.0
+2124,Rahul Desai,Ghaziabad,59.6,32.5,No,0.0
+2594,Vikram Joshi,Roorkee,,50.4,Yes,1.0
+1118,Priya Desai,Roorkee,82.6,48.7,No,1.0
+2249,Anjali Verma,gorakhpur,746.1,43.9,Y,1.0
+1400,Meera Reddy,Roorkee,72.2,,No,0.0
+1522,Kavya Verma,Gorakhpur,84.8,24.2,Yes,1.0
+1513,Priya Kapoor,Roorkee,,29.8,Yes,0.0
+1081,Anjali Verma,Roorkee,81.4,49.4,Yes,1.0
+1915,Meera Reddy,Ghaziabad,,41.1,Yes,0.0
+2018,Sneha Joshi,Roorkee ,,33.4,No,0.0
+1380,Vikram Verma,Roorkee,51.6,36.0,No,0.0
+2029,Aarav Singh,Roorkee,32.5,,,0.0
+2688, ishaan reddy ,New Delhi,83.6,,Yes,1.0
+1084,Kavya Kapoor,Gorakhpur,88.2,37.6,Yes,1.0
+2677,Riya Gupta,Roorkee,,29.3,Yes,0.0
+1329,Anjali Patel,New  Delhi,35.2,50.9,N/A,1.0
+1006,Meera Sharma,New  Delhi,,20.9,Yes,0.0
+1745, anjali verma ,New Delhi,76.9,33.1,No,0.0
+2553,Kavya Singh,New  Delhi,82.9,36.7,Yes,1.0
+1914,Priya Kapoor,Gorakhpur,65.8,43.6,Y,0.0
+1873,Vikram Gupta,New Delhi,84.8,66.9,No,1.0
+1451,Meera Desai,Ghaziabad,79.0,36.0,No,0.0
+1490,Neha Sharma,Roorkee,74.6,34.3,No,
+2480,Sneha Gupta,Ghaziabad,93.0,35.4,,0.0
+1287,Vikram Joshi,Roorkee,77.7,42.5,No,0.0
+1948,Rohan Desai,Roorkee ,,62.3,Yes,1.0
+2382,Riya Reddy,Ghaziabad,93.7,39.4,No,0.0
+2368,Vikram Joshi,New Delhi,266.4,42.8,Yes,1.0
+2146,Kavya Desai,Gorakhpur,84.5,,Yes,1.0
+1705,Priya Sharma,New Delhi,84.6,52.2,Y,1.0
+2726, ishaan sharma ,New Delhi,81.5,44.8,Yes,1.0
+2701,Karan Patel,New  Delhi,77.4,,N,0.0
+2628,Rahul Singh,Gaziabad,,40.9,No,0.0
+2599,Riya Joshi,Roorkee,84.8,28.6,Yes,1.0
+2538,Anjali Verma,New Delhi,73.5,34.0,Yes,1.0
+2405,Riya Sharma,New Delhi,72.9,,Yes,1.0
+2650, arjun desai ,Roorkee,98.8,-28.8,N/A,0.0
+1327,Priya Gupta,Gorakhpur,64.3,41.1,N,0.0
+1442,Rohan Verma,Gorakhpur,95.7,46.5,Yes,1.0
+1774,Ishaan Verma,Ghaziabad,61.8,31.7,No,0.0
+2087,Neha Patel,New Delhi,95.9,51.8,No,1.0
+2220,Kavya Desai,Roorkee,64.6,40.0,No,0.0
+2635,Kavya Gupta,Roorkee,63.0,53.7,Y,1.0
+1177,Sneha Sharma,Roorkee,73.4,,No,0.0
+2322,Meera Sharma,Ghaziabad,105.2,50.2,Yes,1.0
+1704,Priya Reddy,New Delhi,79.2,30.7,No,0.0
+1086,Priya Verma,New Delhi,116.0,-40.9,Yes,1.0
+2883,Anjali Patel,New Delhi,70.8,36.6,No,0.0
+2947,Riya Singh,Roorkee,105.2,52.9,Yes,1.0
+1457,Arjun Desai,Ghaziabad,47.9,,N/A,0.0
+2828,Meera Reddy,Roorkee,50.2,37.1,Yes,0.0
+1054,Neha Gupta,Gorakhpur,78.9,39.3,Yes,1.0
+2501,Arjun Verma,Roorkee,52.3,43.2,Yes,0.0
+1643, neha joshi ,New Delhi,80.8,64.9,Yes,1.0
+1677,Neha Verma,Gaziabad,,32.0,No,0.0
+1221,Arjun Desai,Roorkee,105.8,36.8,Yes,1.0
+1113,Rahul Kapoor,NEW DELHI,,33.5,Yes,0.0
+1982,Arjun Joshi,ghaziabad,63.4,44.1,Yes,0.0
+2228,Meera Kapoor,Roorkee,59.9,28.8,Yes,0.0
+1999,Priya Desai,Gorakhpur,87.4,38.1,No,0.0
+1174, meera gupta ,Ghaziabad,,37.1,Yes,0.0
+1781, rahul singh ,Gorakhpur,78.7,40.9,No,0.0
+1589,Anjali Joshi,Gorakhpur,,24.3,Yes,0.0
+2559,Meera Gupta,Roorkee,82.2,33.0,Yes,1.0
+1018,Riya Sharma,Ghaziabad,78.1,20.4,No,0.0
+1423,Kavya Sharma,Gorakhpur,62.5,,No,0.0
+2343, anjali patel ,Ghaziabad,37.1,,No,0.0
+1285,Vikram Kapoor,New Delhi,80.1,35.8,Yes,1.0
+2583,Priya Desai,NEW DELHI,70.2,39.8,No,0.0
+1428, aarav kapoor ,Gorakhpur,79.3,43.3,No,0.0
+2509,Meera Patel,New Delhi,516.2,41.4,,0.0
+2318, karan patel ,ghaziabad,80.0,54.3,No,1.0
+1669,Ishaan Joshi,New Delhi,82.5,62.9,Yes,1.0
+1031,Rahul Kapoor,New  Delhi,72.3,35.9,Yes,1.0
+1940,Rohan Kumar,Ghaziabad,75.1,-35.2,No,0.0
+1722,Neha Gupta,New  Delhi,93.6,-40.2,Yes,1.0
+1994,Riya Patel,Roorkee,46.6,42.1,Yes,0.0
+1214,Ishaan Singh,Ghaziabad,74.8,48.0,No,1.0
+1813,Sneha Singh,Ghaziabad,486.2,45.4,No,1.0
+1326,Priya Joshi,gorakhpur,74.5,34.6,Yes,1.0
+1560,Rohan Joshi,Roorkee,84.6,28.6,No,0.0
+2112,Meera Patel,Roorkee,81.1,26.7,No,0.0
+1700,Meera Singh,Ghaziabad,79.2,32.9,Yes,1.0
+2578,Amit Patel,New Delhi,84.3,26.8,Yes,1.0
+2189,Meera Gupta,Ghaziabad,71.8,42.8,Yes,1.0
+1341,Priya Verma,NEW DELHI,58.8,,No,0.0
+1629,Meera Verma,ghaziabad,60.1,46.3,No,1.0
+1147,Arjun Joshi,Gaziabad,86.2,46.1,Y,1.0
+2309,Priya Kapoor,gorakhpur,70.0,-44.9,Yes,1.0
+1360,Riya Desai,Ghaziabad,77.9,-30.2,Yes,1.0
+1083,Vikram Sharma,New Delhi,,32.3,No,0.0
+1048,Riya Patel,New Delhi,79.4,42.6,Yes,1.0
+1468,Kavya Joshi,Gorakhpur,56.6,56.6,No,1.0
+1155,Arjun Verma,gorakhpur,79.9,38.7,Yes,1.0
+1772,Vikram Desai,Ghaziabad,208.5,41.2,Yes,1.0
+2239,Amit Verma,Roorkee,58.5,43.6,Yes,0.0
+2200,Riya Singh,Ghaziabad,670.7,,Yes,1.0
+2402,Rahul Kapoor,gorakhpur,69.6,45.4,Yes,1.0
+2202,Neha Patel,New Delhi,80.4,45.7,No,1.0
+2630,Anjali Verma,Gorakhpur,84.9,,No,0.0
+1500, kavya sharma ,Gorakhpur,75.9,33.5,Yes,1.0
+2764,Sneha Singh,Gorakhpur,91.0,46.0,Yes,1.0
+1179,Priya Gupta,Ghaziabad,78.4,40.1,Yes,1.0
+2047,Meera Singh,Gaziabad,73.8,40.2,Yes,1.0
+2755,Vikram Kumar,New Delhi,98.4,35.6,Y,1.0
+1950,Neha Gupta,gorakhpur,48.0,34.6,No,0.0
+2316,Rahul Gupta,Ghaziabad,59.7,37.6,Yes,0.0
+2619,Riya Kumar,ghaziabad,61.2,43.3,No,0.0
+1528,Ishaan Reddy,Gorakhpur,83.2,36.3,Yes,1.0
+1346, kavya sharma ,Ghaziabad,64.4,25.9,Yes,0.0
+2387,Ishaan Gupta,Roorkee,69.7,66.8,No,1.0
+1977,Rahul Singh,Roorkee,72.1,51.3,No,1.0
+2050,Priya Desai,Roorkee,90.8,32.8,Yes,1.0
+2271,Neha Verma,Gorakhpur,72.1,-33.4,Yes,1.0
+2441,Neha Joshi,New Delhi,84.6,38.1,Yes,1.0
+1601,Arjun Joshi,Roorkee,,33.4,No,0.0
+2281,Amit Kapoor,Ghaziabad,81.9,54.6,Yes,1.0
+1243,Rohan Sharma,NEW DELHI,59.4,38.1,No,0.0
+2336,Arjun Singh,New Delhi,93.5,56.9,No,1.0
+2067,Vikram Kumar,ghaziabad,79.9,36.3,No,0.0
+2475, arjun gupta ,Ghaziabad,447.8,53.3,No,1.0
+1312,Vikram Verma,Roorkee,59.8,23.5,No,0.0
+1435,Riya Joshi,NEW DELHI,112.9,34.7,No,0.0
+2898,Karan Kumar,Roorkee,54.1,41.6,No,0.0
+2328,Sneha Verma,ghaziabad,80.5,19.0,No,0.0
+1308,Priya Reddy,Ghaziabad,60.2,38.7,No,0.0
+1430,Kavya Joshi,New Delhi,72.3,32.0,No,0.0
+1660, aarav kapoor ,Ghaziabad,79.2,32.1,Y,1.0
+1370,Kavya Gupta,Ghaziabad,61.2,-26.5,No,0.0
+1566,Anjali Gupta,Roorkee,71.3,49.6,Yes,1.0
+1979, rahul joshi ,Roorkee,,41.9,Yes,0.0
+1181,Riya Joshi,Gorakhpur,75.4,45.0,No,0.0
+2362,Vikram Singh,New Delhi,57.0,-29.6,Yes,0.0
+1621,Neha Gupta,New Delhi,63.6,40.3,N,0.0
+1818,Vikram Verma,Roorkee,60.7,44.2,Yes,0.0
+2192,Anjali Sharma,Gorakhpur,,37.4,Yes,0.0
+1952, aarav kapoor ,Gorakhpur,72.5,35.3,Yes,1.0
+2421,Riya Patel,New Delhi,66.5,43.3,Yes,0.0
+2840,Karan Patel,Ghaziabad,73.4,,N,0.0
+1922,Neha Reddy,Ghaziabad,,57.8,Y,1.0
+2073,Ishaan Kapoor,Roorkee,58.7,38.4,Yes,0.0
+1296,Ishaan Kapoor,Gorakhpur,88.0,,No,0.0
+1966,Anjali Desai,New Delhi,80.7,39.7,N,0.0
+1461,Priya Desai,Roorkee,86.0,50.8,Yes,1.0
+2302,Aarav Kapoor,ghaziabad,,33.9,Yes,0.0
+2176,Vikram Joshi,New Delhi,776.5,30.8,No,0.0
+1377,Priya Reddy,New Delhi,240.5,33.0,No,0.0
+1798,Rahul Kapoor,Ghaziabad,96.0,40.6,,0.0
+2102,Aarav Joshi,Gaziabad,95.7,27.6,No,0.0
+1105,Priya Patel,Roorkee,63.4,37.6,No,0.0
+1126,Vikram Kumar,Ghaziabad,,47.7,Yes,1.0
+1613,Sneha Reddy,Ghaziabad,79.7,40.0,N/A,0.0
+1838, arjun kumar ,Ghaziabad,,55.2,No,1.0
+1355,Vikram Kumar,Ghaziabad,79.6,22.9,No,0.0
+2616,Sneha Reddy,Ghaziabad,,23.7,No,0.0
+1682,Neha Singh,New Delhi,,31.4,No,0.0
+1812, rohan kapoor ,Gorakhpur,80.4,53.7,Yes,
+2680,Rohan Sharma,Gorakhpur,71.5,,No,0.0
+1209,Rohan Desai,New Delhi,49.0,54.4,No,1.0
+2492,Sneha Singh,Roorkee ,42.2,51.4,Y,1.0
+1140,Ishaan Kapoor,New Delhi,79.2,33.8,No,0.0
+1192,Neha Patel,Roorkee,55.2,58.3,No,1.0
+2339, priya sharma ,ghaziabad,70.0,43.4,Yes,0.0
+2797, neha sharma ,New Delhi,73.1,43.4,N,0.0
+2574,Priya Joshi,Gorakhpur,99.3,,No,0.0
+2181,Karan Patel,gorakhpur,,27.1,No,0.0
+2393,Kavya Reddy,NEW DELHI,,35.7,Yes,0.0
+2815,Meera Verma,Gaziabad,61.3,31.6,Yes,0.0
+1711,Karan Gupta,Roorkee,105.8,-29.0,Yes,
+2793,Kavya Patel,Gaziabad,58.0,52.3,No,1.0
+1892,Meera Reddy,Ghaziabad,82.2,,No,0.0
+1859,Neha Sharma,Ghaziabad,88.3,34.7,Yes,
+1010,Sneha Sharma,New Delhi,97.0,,Yes,1.0
+2694,Vikram Kumar,Ghaziabad,69.2,35.9,Yes,0.0
+2427,Vikram Sharma,New Delhi,85.3,58.5,Yes,1.0
+1282,Ishaan Patel,Gorakhpur,87.4,17.9,Yes,1.0
+1810,Vikram Verma,Roorkee ,94.6,34.3,No,0.0
+2341, karan verma ,Roorkee,81.2,44.6,No,0.0
+1291,Riya Kumar,Gorakhpur,82.2,43.3,No,0.0
+1754,Sneha Kumar,Gorakhpur,62.4,38.6,No,0.0
+1626,Sneha Sharma,Ghaziabad,85.4,59.5,No,1.0
+1943,Karan Desai,Roorkee,47.9,36.5,Yes,0.0
+1861,Arjun Patel,Ghaziabad,80.1,-33.5,Yes,1.0
+1129,Neha Verma,New Delhi,71.2,27.5,No,0.0
+2175,Rahul Kapoor,ghaziabad,75.5,32.4,No,0.0
+1323,Meera Verma,Roorkee ,75.2,39.8,N/A,0.0
+2090,Amit Kumar,Ghaziabad,56.2,46.0,No,1.0
+1843,Priya Singh,Roorkee,69.0,45.2,No,1.0
+1963,Meera Singh,New Delhi,79.6,36.1,No,0.0
+2864,Kavya Sharma,Ghaziabad,54.2,24.0,Yes,
+1865,Amit Singh,Roorkee,90.8,31.4,Yes,1.0
+1921,Karan Verma,Gorakhpur,89.5,44.3,No,0.0
+1695,Rohan Patel,New Delhi,78.6,,No,0.0
+1215,Sneha Kumar,Roorkee,,-23.4,No,0.0
+2780,Kavya Sharma,Ghaziabad,64.7,22.2,No,0.0
+2261,Aarav Verma,New Delhi,93.7,41.3,Yes,1.0
+1158,Amit Verma,Gorakhpur,59.9,27.9,Yes,0.0
+2058,Ishaan Desai,Roorkee ,69.1,,Yes,0.0
+1988,Anjali Kumar,New Delhi,709.1,47.5,No,1.0
+1841,Rohan Kumar,NEW DELHI,80.6,32.1,Yes,1.0
+1634,Sneha Reddy,Ghaziabad,76.1,,Yes,1.0
+1516,Karan Kumar,Gorakhpur,67.8,,N,0.0
+2428,Meera Patel,Roorkee,72.4,46.7,Yes,1.0
+2747,Aarav Desai,Ghaziabad,89.9,,No,0.0
+1597,Meera Singh,ghaziabad,78.4,,No,0.0
+1195, vikram kumar ,Gorakhpur,,52.4,No,1.0
+2783,Rohan Patel,Gorakhpur,62.5,,Yes,0.0
+1869,Anjali Reddy,gorakhpur,76.2,,No,0.0
+1410,Rahul Patel,New Delhi,54.8,30.8,Yes,0.0
+1096,Rahul Kapoor,Ghaziabad,75.9,28.6,Y,1.0
+2000,Sneha Desai,Ghaziabad,71.0,20.0,No,0.0
+2505,Vikram Patel,Ghaziabad,78.0,56.3,Yes,1.0
+1156,Sneha Kapoor,New Delhi,76.5,46.0,No,1.0
+1419,Rahul Patel,New Delhi,65.4,34.7,Yes,0.0
+2802,Anjali Sharma,New Delhi,83.3,36.3,Yes,1.0
+1477,Sneha Singh,New Delhi,60.8,,No,0.0
+2855,Anjali Patel,Gorakhpur,59.4,28.3,No,0.0
+1668,Amit Kapoor,ghaziabad,52.0,49.1,No,1.0
+2417, karan joshi ,Gaziabad,65.2,40.0,No,0.0
+2871,Karan Sharma,New  Delhi,56.0,,Yes,0.0
+2299,Sneha Verma,Ghaziabad,65.1,48.5,Yes,1.0
+1447,Kavya Joshi,Gorakhpur,87.3,25.1,Yes,1.0
+1553,Priya Kapoor,New Delhi,65.6,59.1,Yes,1.0
+1178,Neha Desai,Roorkee,85.4,36.0,No,0.0
+1390,Karan Singh,Gorakhpur,,42.1,No,0.0
+1578,Ishaan Kumar,New Delhi,37.5,62.9,Yes,1.0
+2477,Karan Sharma,New Delhi,58.8,,Yes,0.0
+2706,Neha Reddy,Roorkee,75.8,29.4,Yes,1.0
+2287,Neha Desai,Roorkee,79.4,44.6,No,0.0
+2644,Karan Joshi,New Delhi,,30.2,Yes,0.0
+2023,Rohan Verma,New Delhi,82.8,31.8,No,0.0
+1820, kavya kumar ,New  Delhi,75.4,54.1,No,1.0
+2824,Rohan Gupta,Ghaziabad,89.9,57.0,N/A,1.0
+1984,Riya Singh,Roorkee,65.6,48.6,N/A,1.0
+2338,Aarav Reddy,Roorkee,,34.7,N,0.0
+1664,Rahul Desai,Gorakhpur,66.5,35.9,Yes,0.0
+1142,Aarav Patel,Roorkee,,48.5,Yes,1.0
+2516,Karan Verma,New Delhi,,28.2,No,
+2429,Vikram Patel,Ghaziabad,76.5,53.0,Yes,1.0
+1864,Rahul Kapoor,gorakhpur,50.9,47.8,Yes,1.0
+1421,Rohan Gupta,Ghaziabad,65.4,51.9,N/A,1.0
+1636,Amit Desai,ghaziabad,63.8,42.3,,0.0
+2406,Ishaan Verma,New Delhi,64.3,,Yes,0.0
+1799,Arjun Sharma,Roorkee ,65.3,39.4,No,0.0
+2403, ishaan gupta ,ghaziabad,79.4,43.8,Yes,1.0
+1615,Rohan Reddy,New Delhi,,20.9,No,0.0
+1294,Kavya Kapoor,Ghaziabad,68.3,43.8,Yes,0.0
+1923,Karan Patel,Gorakhpur,57.1,49.2,Yes,1.0
+2268,Rahul Desai,Gorakhpur,70.9,49.4,No,1.0
+2902,Priya Desai,Roorkee,52.0,38.0,No,0.0
+1088,Amit Singh,Roorkee,60.6,49.8,No,1.0
+1041,Meera Reddy,Roorkee,97.2,34.8,Yes,1.0
+2801,Sneha Sharma,Gorakhpur,87.7,51.5,No,1.0
+2933,Aarav Singh,Gorakhpur,80.7,-52.3,No,0.0
+1131,Riya Kapoor,Roorkee,68.4,41.3,Yes,0.0
+2001,Aarav Sharma,Roorkee,,27.6,Yes,0.0
+2157,Vikram Reddy,Ghaziabad,889.8,29.9,No,0.0
+2094,Kavya Patel,Ghaziabad,,37.5,Yes,0.0
+2854,Anjali Patel,Roorkee,72.7,36.7,No,0.0
+2344,Riya Singh,Gorakhpur,78.6,28.5,Yes,1.0
+2498,Ishaan Patel,Ghaziabad,72.5,33.2,No,0.0
+1164,Kavya Kumar,Ghaziabad,,36.8,,0.0
+1724,Karan Desai,New Delhi,78.6,66.0,Yes,1.0
+1290,Meera Kapoor,Roorkee,76.1,35.2,Yes,1.0
+2208,Aarav Patel,Roorkee,,46.8,Yes,1.0
+2588,Rohan Verma,Gorakhpur,78.3,,No,0.0
+2896,Neha Desai,New Delhi,79.8,56.5,N/A,1.0
+2641,Rohan Kumar,New Delhi,,28.3,No,0.0
+2361,Rahul Reddy,Gorakhpur,88.1,33.5,Yes,
+1778,Arjun Sharma,Ghaziabad,74.7,32.5,Yes,
+1839,Meera Kapoor,New Delhi,,35.7,No,0.0
+1348,Meera Joshi,gorakhpur,55.8,57.5,No,1.0
+2944, sneha reddy ,New Delhi,,47.7,No,1.0
+1571,Rahul Sharma,Roorkee ,55.8,23.6,Yes,0.0
+1917, rohan sharma ,Roorkee,73.1,21.2,No,0.0
+1976,Priya Reddy,Roorkee,72.0,38.5,No,0.0
+2913,Anjali Patel,New Delhi,66.7,38.7,N/A,0.0
+2468,Rahul Kapoor,New Delhi,78.9,27.6,No,0.0
+2591,Priya Desai,Roorkee,77.9,32.0,Y,1.0
+2317,Anjali Gupta,Ghaziabad,74.4,38.7,Yes,1.0
+2844,Anjali Gupta,Roorkee,71.8,55.0,Yes,1.0
+1136,Arjun Kapoor,New Delhi,84.7,41.3,No,0.0
+1458,Rohan Joshi,Gorakhpur,67.8,41.3,Yes,0.0
+1375,Amit Kumar,NEW DELHI,66.4,41.2,Yes,0.0
+2342,Rahul Singh,Ghaziabad,75.7,45.6,No,1.0
+1333,Sneha Kumar,NEW DELHI,,,Yes,0.0
+2159,Aarav Desai,Gorakhpur,85.3,26.3,No,0.0
+2760,Meera Reddy,Roorkee,103.8,27.8,Yes,1.0
+2457, rahul sharma ,Ghaziabad,88.7,41.1,No,0.0
+1816,Ishaan Reddy,Roorkee,65.3,50.3,Yes,1.0
+2114,Neha Kumar,NEW DELHI,69.5,44.4,No,0.0
+2005,Rohan Joshi,New Delhi,102.0,,N/A,0.0
+2856,Rohan Joshi,Roorkee,82.0,34.5,Y,1.0
+2135,Rohan Kapoor,New Delhi,51.2,47.9,No,1.0
+2850,Rohan Reddy,New Delhi,63.3,32.4,Yes,0.0
+1910,Neha Patel,Roorkee,58.6,54.1,No,1.0
+2929,Rohan Reddy,New Delhi,88.3,,No,0.0
+2125,Priya Verma,New Delhi,93.3,48.2,Yes,1.0
+1328,Vikram Kapoor,Roorkee,71.2,,Yes,1.0
+2247,Meera Sharma,New Delhi,90.3,-60.9,Y,1.0
+1318,Sneha Singh,New Delhi,34.5,39.5,No,0.0
+2689,Priya Desai,New Delhi,55.7,42.9,Yes,0.0
+2358,Ishaan Verma,Ghaziabad,67.6,37.2,No,0.0
+2732, anjali kumar ,Gaziabad,72.0,60.7,No,1.0
+1167,Rahul Reddy,Gorakhpur,78.7,34.9,No,0.0
+1012, karan desai ,Ghaziabad,66.8,41.1,No,0.0
+2926,Karan Verma,Roorkee,,44.6,No,0.0
+1171, kavya joshi ,Gorakhpur,79.7,54.8,No,1.0
+1649,Riya Desai,Ghaziabad,,36.5,Yes,0.0
+2061,Aarav Kumar,Roorkee,64.6,39.6,No,0.0
+1260,Ishaan Kumar,New Delhi,84.6,23.4,Yes,1.0
+2366,Riya Kapoor,Roorkee,88.2,36.2,No,0.0
+2548,Anjali Kapoor,New Delhi,68.1,33.1,No,0.0
+1901,Rohan Desai,NEW DELHI,,49.0,Yes,1.0
+1672,Meera Singh,Gorakhpur,67.4,28.3,No,0.0
+1258, amit joshi ,Gorakhpur,50.6,40.5,N,0.0
+1844,Priya Joshi,New Delhi,67.4,47.8,No,1.0
+1867,Priya Singh,New Delhi,88.5,42.1,No,0.0
+2799,Kavya Patel,Roorkee ,87.3,35.7,No,0.0
+1138,Karan Kumar,Roorkee,107.0,20.5,Yes,1.0
+1893,Priya Patel,New Delhi,80.7,38.2,Yes,1.0
+2837,Aarav Kapoor,Gorakhpur,75.5,29.6,Yes,1.0
+1549,Vikram Joshi,New Delhi,90.0,-11.0,Yes,1.0
+1319,Karan Kapoor,NEW DELHI,71.5,47.0,Yes,1.0
+2526,Sneha Singh,ghaziabad,90.7,56.6,No,1.0
+2805,Aarav Gupta,Roorkee,80.1,36.7,No,0.0
+2177,Rahul Patel,Roorkee,65.4,57.0,Yes,1.0
+1558,Anjali Reddy,Ghaziabad,78.0,50.5,Yes,1.0
+1139,Priya Singh,Gorakhpur,72.7,45.9,Yes,1.0
+2734,Rahul Desai,Ghaziabad,,58.6,No,1.0
+1531,Sneha Gupta,Ghaziabad,69.6,28.8,No,0.0
+1224,Anjali Joshi,Ghaziabad,459.3,38.1,Yes,1.0
+1723,Rahul Kumar,Gorakhpur,79.6,57.0,No,1.0
+1786,Rahul Kapoor,Roorkee,55.0,64.1,No,1.0
+2717,Anjali Reddy,Gorakhpur,82.7,59.4,No,1.0
+2007,Rahul Verma,gorakhpur,87.1,-30.3,Yes,1.0
+1409,Anjali Patel,New  Delhi,68.7,37.2,Yes,0.0
+1325,Vikram Gupta,ghaziabad,,34.5,No,0.0
+2765,Sneha Joshi,Roorkee,109.6,25.2,Yes,1.0
+1299,Vikram Reddy,Gorakhpur,48.3,55.0,Yes,1.0
+2262,Sneha Verma,Ghaziabad,80.4,43.4,Yes,1.0
+2945,Neha Reddy,Roorkee,,,No,0.0
+1025,Rohan Reddy,Gorakhpur,79.9,36.1,No,0.0
+2858,Ishaan Singh,Gaziabad,,53.0,No,1.0
+1714, meera gupta ,Roorkee,87.9,34.2,Yes,1.0
+2009,Ishaan Reddy,Roorkee,271.3,67.6,Yes,1.0
+1193,Rahul Singh,Ghaziabad,92.7,35.3,Yes,1.0
+1440,Riya Kumar,New  Delhi,87.3,45.1,No,1.0
+1573,Rahul Desai,Ghaziabad,51.7,37.0,No,0.0
+1946,Priya Patel,ghaziabad,51.9,25.1,Yes,0.0
+1997,Vikram Sharma,ghaziabad,,32.4,Yes,0.0
+1503,Rahul Singh,Gorakhpur,90.7,34.6,Yes,1.0
+1605,Rohan Kumar,New Delhi,70.6,52.5,Yes,1.0
+2716,Vikram Singh,Gorakhpur,82.4,34.6,Yes,1.0
+2163,Vikram Sharma,Gorakhpur,677.5,26.5,Yes,1.0
+2786,Arjun Reddy,Roorkee,52.4,28.4,Yes,0.0
+1846,Sneha Singh,gorakhpur,46.0,41.3,No,0.0
+1003,Amit Gupta,New Delhi,98.7,47.7,N,1.0
+2286,Ishaan Sharma,Ghaziabad,68.4,35.2,Yes,0.0
+2222,Sneha Sharma,Roorkee,78.8,36.2,Yes,1.0
+1467,Neha Reddy,Roorkee,73.3,,Yes,1.0
+1321,Aarav Kumar,Gorakhpur,71.0,28.9,No,0.0
+1005,Riya Patel,Gorakhpur,68.0,35.3,No,0.0
+1222,Riya Kumar,New Delhi,68.3,35.2,Yes,0.0
+2374,Priya Singh,New Delhi,73.2,33.6,No,0.0
+1547,Rahul Joshi,Roorkee ,76.2,20.0,Y,1.0
+1228,Priya Verma,Gorakhpur,84.2,47.6,No,1.0
+1039,Meera Reddy,Ghaziabad,76.4,20.1,Yes,1.0
+1542,Ishaan Kapoor,Gorakhpur,90.5,42.4,No,0.0
+1242,Priya Patel,Gorakhpur,97.8,45.4,N/A,1.0
+1898,Aarav Desai,Roorkee ,64.4,-24.9,Yes,0.0
+2133, riya joshi ,Ghaziabad,82.2,34.3,Yes,1.0
+2448,Priya Desai,Ghaziabad,,37.6,Yes,0.0
+2868,Karan Verma,Ghaziabad,84.8,-48.1,No,0.0
+1842,Riya Sharma,New  Delhi,92.9,28.8,No,0.0
+2418,Sneha Verma,Roorkee,,34.9,No,0.0
+2653,Ishaan Kumar,Ghaziabad,111.7,34.6,N/A,0.0
+2132,Priya Desai,New Delhi,102.0,43.8,Yes,1.0
+1661,Karan Singh,Gorakhpur,83.1,,Yes,1.0
+2210,Anjali Reddy,Roorkee,72.2,33.8,Yes,1.0
+1314,Riya Sharma,Roorkee,55.7,27.0,No,0.0
+1691,Karan Patel,gorakhpur,65.4,41.7,No,0.0
+2503,Aarav Kapoor,Roorkee,78.4,46.9,Yes,1.0
+1424,Arjun Desai,Roorkee,66.7,46.3,No,1.0
+1594,Kavya Joshi,New Delhi,66.0,,Yes,0.0
+2343, anjali patel ,Ghaziabad,37.1,,No,0.0
+1622,Sneha Gupta,Roorkee,65.7,47.0,No,1.0
+2170,Kavya Singh,Gorakhpur,95.8,51.5,,1.0
+2043,Neha Verma,New Delhi,,-41.2,Yes,0.0
+1227, vikram joshi ,Ghaziabad,73.3,,Y,1.0
+2117,Karan Verma,Gorakhpur,67.8,49.6,No,1.0
+2331,Meera Desai,Roorkee ,104.3,34.9,Yes,1.0
+2315,Amit Kumar,Ghaziabad,834.9,31.9,Yes,1.0
+1066,Anjali Kumar,Ghaziabad,59.1,,No,0.0
+1024,Ishaan Joshi,Ghaziabad,80.2,,No,0.0
+1144,Rohan Kapoor,New  Delhi,88.5,,No,0.0
+1536,Priya Singh,New Delhi,89.9,,No,0.0
+1811,Meera Singh,Roorkee,47.5,42.0,No,0.0
+2466, rohan desai ,Gorakhpur,76.1,37.9,No,0.0
+1085,Riya Singh,Roorkee,93.1,45.4,Yes,1.0
+2660,Ishaan Joshi,New Delhi,47.3,49.2,Yes,1.0
+2645,Karan Joshi,Gorakhpur,73.7,,No,0.0
+2804,Anjali Singh,New Delhi,,50.5,No,1.0
+2817,Karan Verma,Roorkee ,67.1,53.5,No,1.0
+2576,Rahul Patel,Roorkee,88.8,32.3,No,0.0
+2144,Meera Verma,Ghaziabad,55.5,-27.8,Yes,0.0
+1362,Meera Singh,Gorakhpur,90.4,44.7,No,0.0
+2611,Aarav Desai,Roorkee,54.2,-34.0,Yes,0.0
+2865,Neha Verma,gorakhpur,56.7,41.6,Yes,0.0
+2026,Ishaan Gupta,Roorkee,78.0,37.2,Yes,1.0
+2030,Amit Kapoor,New Delhi,53.4,37.9,Yes,0.0
+2303,Anjali Patel,Ghaziabad,59.8,47.0,No,1.0
+2355,Ishaan Gupta,Gorakhpur,67.3,38.0,No,0.0
+2730,Priya Kapoor,Roorkee,,56.3,Yes,1.0
+1665,Anjali Joshi,Roorkee ,69.5,32.9,Yes,0.0
+1364,Riya Gupta,New Delhi,100.0,50.1,No,1.0
+1077,Rahul Gupta,Ghaziabad,90.7,,Yes,1.0
+1027,Rohan Kumar,NEW DELHI,83.7,48.9,No,1.0
+2436,Kavya Patel,New Delhi,61.7,49.6,,1.0
+1525,Aarav Kapoor,Roorkee,82.4,42.6,No,0.0
+2834,Riya Joshi,Roorkee,82.2,46.8,Yes,1.0
+1055,Neha Verma,New Delhi,46.2,39.7,Yes,0.0
+1638,Neha Patel,Gorakhpur,82.6,45.8,Yes,1.0
+1302,Karan Desai,New Delhi,,,Yes,0.0
+1718,Karan Reddy,Roorkee,84.9,51.7,No,1.0
+1624,Ishaan Reddy,Roorkee,81.9,61.2,Yes,1.0
+1007,Kavya Joshi,NEW DELHI,49.1,34.4,No,0.0
+1803,Sneha Verma,Gorakhpur,53.3,40.9,Yes,0.0
+2049,Vikram Sharma,Ghaziabad,,42.2,,0.0
+1336,Arjun Reddy,ghaziabad,67.1,44.9,Yes,0.0
+1047,Priya Desai,Ghaziabad,69.1,,No,0.0
+2763,Anjali Kapoor,Ghaziabad,93.6,36.0,Yes,1.0
+1106,Riya Kumar,Roorkee,67.7,40.8,Yes,0.0
+1349,Rohan Gupta,New Delhi,43.8,57.0,No,1.0
+2079,Aarav Joshi,Roorkee,53.6,-37.3,No,0.0
+1238,Aarav Joshi,gorakhpur,65.3,29.2,No,
+1213,Rohan Singh,Gorakhpur,89.7,43.3,No,0.0
+2775,Rohan Singh,Ghaziabad,72.3,44.0,Yes,1.0
+2138,Rohan Joshi,Gorakhpur,40.4,,Yes,0.0
+1793,Kavya Joshi,New Delhi,62.6,40.9,No,0.0
+2586,Kavya Reddy,New Delhi,96.6,17.9,No,0.0
+2582,Sneha Verma,gorakhpur,71.9,,,0.0
+2671,Amit Kapoor,Gorakhpur,83.4,,Yes,1.0
+1523,Ishaan Reddy,ghaziabad,97.1,,No,0.0
+1232, vikram patel ,Ghaziabad,99.7,37.5,No,0.0
+1644, sneha kapoor ,Gorakhpur,992.3,48.4,Yes,1.0
+2507,Karan Gupta,Ghaziabad,86.6,45.5,Yes,1.0
+1533,Ishaan Reddy,New Delhi,68.0,43.5,Yes,
+2941,Sneha Singh,Roorkee,73.6,-37.6,No,0.0
+1603,Aarav Kumar,New Delhi,56.3,33.1,Yes,0.0
+2329,Arjun Reddy,Roorkee,84.4,48.9,No,1.0
+2074,Priya Desai,ghaziabad,75.6,-45.8,No,0.0
+2304,Meera Sharma,New Delhi,52.1,46.2,Yes,1.0
+1060,Neha Reddy,New Delhi,86.9,30.9,Yes,1.0
+2263,Karan Kapoor,ghaziabad,43.7,38.1,Yes,0.0
+1092,Riya Sharma,Gorakhpur,,,No,0.0
+1666,Priya Kapoor,Roorkee,79.5,33.7,Yes,1.0
+1280,Sneha Sharma,New Delhi,75.3,56.8,Yes,1.0
+2113,Meera Patel,New  Delhi,66.7,29.7,No,0.0
+1359,Sneha Verma,Roorkee,66.9,32.2,No,0.0
+2128,Riya Sharma,NEW DELHI,88.0,,No,0.0
+2169,Rahul Gupta,New Delhi,83.1,38.5,No,0.0
+1847,Karan Kumar,Ghaziabad,90.4,26.8,No,0.0
+2521,Sneha Kapoor,Roorkee,81.8,21.3,No,0.0
+1110,Riya Verma,New  Delhi,,29.2,No,0.0
+1042,Rohan Singh,Roorkee ,62.9,35.0,No,0.0
+1125,Aarav Patel,Gorakhpur,,,Yes,0.0
+1204,Arjun Kumar,New Delhi,77.5,51.5,Yes,1.0
+1052,Meera Joshi,New Delhi,72.6,44.0,No,0.0
+1545,Amit Gupta,Ghaziabad,85.9,40.5,No,0.0
+1068,Rahul Sharma,Roorkee,63.3,36.8,Yes,0.0
+2740,Rahul Kumar,Gorakhpur,88.2,29.2,Yes,1.0
+2547,Amit Kumar,gorakhpur,65.9,44.6,Yes,0.0
+1183,Anjali Desai,ghaziabad,107.3,32.3,Yes,1.0
+1137,Riya Desai,Roorkee,696.2,52.8,No,1.0
+1899,Meera Kapoor,Gorakhpur,48.0,24.2,No,0.0
+1796,Riya Gupta,New  Delhi,39.6,29.9,Yes,0.0
+1132, vikram sharma ,New Delhi,96.6,,Y,1.0
+1080,Anjali Verma,New Delhi,86.5,52.7,Yes,1.0
+1536,Priya Singh,New Delhi,89.9,,No,0.0
+2540,Riya Gupta,gorakhpur,64.4,32.9,Yes,0.0
+1541, ishaan reddy ,Gorakhpur,80.7,44.3,No,0.0
+2668, meera reddy ,Ghaziabad,74.3,31.7,No,0.0
+1983, priya kumar ,Ghaziabad,60.4,-26.2,No,0.0
+1165,Meera Verma,Ghaziabad,81.2,34.4,No,0.0
+1248,Aarav Desai,Ghaziabad,66.1,,Yes,0.0
+1446,Priya Sharma,Roorkee,71.6,-40.0,No,0.0
+2514, riya sharma ,Ghaziabad,71.6,39.1,,0.0
+1858,Vikram Reddy,Gorakhpur,77.9,43.2,No,0.0
+2211,Karan Gupta,Gorakhpur,77.3,47.7,No,1.0
+1097,Riya Kapoor,New Delhi,80.4,45.6,No,1.0
+2304,Meera Sharma,New Delhi,52.1,46.2,Yes,1.0
+1737,Aarav Desai,New Delhi,68.2,31.8,Yes,0.0
+2255,Anjali Verma,Ghaziabad,67.9,27.2,Yes,0.0
+1102,Sneha Patel,Ghaziabad,83.6,51.4,,1.0
+1434,Aarav Singh,Gorakhpur,,51.9,No,1.0
+1074,Arjun Singh,ghaziabad,84.3,52.2,Yes,1.0
+2791,Neha Desai,gorakhpur,66.5,,Yes,0.0
+2234,Anjali Kumar,Gaziabad,,40.1,Yes,0.0
+1918,Rohan Patel,Ghaziabad,,40.9,No,0.0
+2711,Ishaan Joshi,New Delhi,,,Yes,0.0
+2670,Karan Kumar,New Delhi,64.4,,Yes,0.0
+2620,Priya Kumar,New  Delhi,101.0,47.0,No,1.0
+1762,Vikram Sharma,New Delhi,53.8,28.3,Y,0.0
+1989, meera kapoor ,New Delhi,83.8,44.5,No,0.0
+1388,Vikram Desai,New Delhi,87.5,44.6,Yes,1.0
+1235,Vikram Gupta,Gorakhpur,,30.4,Yes,0.0
+2506,Rohan Joshi,NEW DELHI,64.0,58.2,No,1.0
+1267,Kavya Reddy,Gorakhpur,37.9,32.0,Yes,0.0
+2187,Aarav Gupta,Ghaziabad,51.4,49.3,No,1.0
+1117, amit reddy ,Gorakhpur,63.1,38.9,No,0.0
+2606,Vikram Singh,Ghaziabad,55.5,32.4,No,0.0
+1673,Arjun Desai,Roorkee,93.1,36.8,No,0.0
+1249,Aarav Kumar,Gorakhpur,75.7,,Yes,1.0
+2452,Arjun Kapoor,Ghaziabad,93.3,37.4,No,0.0
+1592,Amit Desai,Roorkee,83.3,30.3,Yes,1.0
+1094,Aarav Joshi,Ghaziabad,77.6,,N/A,0.0
+1033,Karan Sharma,ghaziabad,87.5,43.0,N/A,0.0
+2463,Sneha Verma,Roorkee,73.2,,No,0.0
+2667,Ishaan Kapoor,Ghaziabad,93.0,43.2,Yes,1.0
+1448,Kavya Sharma,New Delhi,,40.9,N,0.0
+1716,Meera Kapoor,Roorkee,71.3,56.1,No,1.0
+2809,Meera Gupta,Gorakhpur,83.0,48.4,N,1.0
+2517,Ishaan Kapoor,gorakhpur,95.2,35.3,Yes,1.0
+1000, vikram gupta ,Gorakhpur,82.5,38.6,Y,1.0
+2375,Arjun Patel,Roorkee,101.1,,Yes,1.0
+2101,Arjun Patel,Roorkee,81.1,24.2,No,0.0
+2108,Sneha Desai,New Delhi,62.9,49.6,No,1.0
+2226,Karan Sharma,ghaziabad,77.0,41.6,Yes,1.0
+1082,Arjun Verma,New Delhi,62.0,41.5,No,0.0
+2288,Meera Verma,Ghaziabad,78.0,43.1,Yes,1.0
+1676, sneha verma ,ghaziabad,69.1,,,0.0
+2920,Vikram Kapoor,New Delhi,52.5,39.1,No,0.0
+2046,Kavya Verma,New Delhi,86.7,15.9,No,0.0
+1770,Anjali Desai,ghaziabad,66.0,44.7,No,0.0
+2946,Anjali Kumar,NEW DELHI,79.7,21.1,Yes,1.0
+2280,Vikram Patel,Roorkee,64.0,,Yes,0.0
+2580,Anjali Gupta,New  Delhi,91.1,43.3,No,0.0
+2488,Vikram Reddy,NEW DELHI,69.9,41.7,No,0.0
+1404,Rohan Desai,ghaziabad,76.2,50.7,No,1.0
+2727,Ishaan Desai,New Delhi,63.1,,Yes,0.0
+2298,Priya Kapoor,ghaziabad,82.7,,No,0.0
+2340,Sneha Kumar,Gorakhpur,98.3,48.5,Yes,1.0
+1104,Rohan Desai,New Delhi,70.3,-47.6,Yes,1.0
+1688,Priya Desai,Gaziabad,73.7,49.2,No,1.0
+2305,Arjun Singh,Gorakhpur,90.7,45.4,Yes,1.0
+1826,Riya Gupta,Gorakhpur,77.9,36.5,No,0.0
+1062,Rohan Verma,Gorakhpur,83.8,61.9,No,1.0
+1852,Anjali Joshi,Gorakhpur,49.4,17.2,No,
+2353,Kavya Kumar,Ghaziabad,,,No,0.0
+1223,Vikram Kapoor,Roorkee,62.8,34.4,Yes,0.0
+1145,Karan Kumar,Gorakhpur,87.2,46.3,No,1.0
+2088,Kavya Singh,Roorkee,805.1,-28.0,Yes,1.0
+1373,Riya Kapoor,Gorakhpur,82.4,41.8,Yes,1.0
+2420,Anjali Joshi,New  Delhi,192.1,37.0,No,0.0
+2142,Neha Singh,Gorakhpur,68.7,46.8,No,1.0
+2826,Neha Joshi,Gorakhpur,82.7,35.2,Yes,1.0
+2494,Priya Reddy,Ghaziabad,51.6,53.8,No,1.0
+2601,Meera Singh,gorakhpur,92.5,,No,0.0
+2270,Anjali Gupta,Ghaziabad,77.9,-34.4,Yes,1.0
+1009,Amit Verma,Ghaziabad,61.4,25.9,Yes,0.0
+1449,Aarav Kapoor,Gorakhpur,86.3,26.5,Yes,1.0
+1708, rahul verma ,Roorkee ,707.4,45.9,No,1.0
+1255,Meera Patel,Ghaziabad,50.0,45.4,Yes,1.0
+1882,Vikram Gupta,Ghaziabad,76.8,,No,0.0
+1389,Vikram Joshi,Roorkee,,-23.4,Yes,0.0
+1908, karan patel ,New Delhi,71.6,-33.5,No,0.0
+1924,Karan Gupta,Ghaziabad,90.0,33.3,Yes,1.0
+2703,Rahul Joshi,gorakhpur,,41.3,No,0.0
+2232,Meera Kapoor,Roorkee ,65.0,,Yes,0.0
+1460,Rohan Gupta,New Delhi,73.0,19.6,No,0.0
+2269,Rohan Kumar,Ghaziabad,82.4,40.4,No,0.0
+2759,Rohan Kumar,Ghaziabad,106.9,53.3,Yes,1.0
+2168,Priya Kapoor,New Delhi,68.5,38.4,No,0.0
+1958,Arjun Reddy,Gaziabad,56.6,45.0,Y,0.0
+1501,Amit Singh,ghaziabad,85.5,43.9,Yes,1.0
+1739,Rohan Patel,New Delhi,83.8,,Yes,1.0
+2849,Ishaan Verma,New Delhi,852.6,50.3,No,1.0
+1868, sneha sharma ,Ghaziabad,,33.5,Yes,0.0
+1731,Priya Patel,NEW DELHI,,43.9,No,0.0
+1539,Meera Gupta,Gorakhpur,69.8,36.5,Yes,0.0
+2201,Rohan Kumar,Ghaziabad,756.2,46.9,Yes,1.0
+1697,Priya Singh,Roorkee ,60.3,,No,0.0
+2392,Ishaan Sharma,Roorkee,61.4,32.8,Yes,0.0
+2376,Kavya Verma,Roorkee,102.5,48.1,Yes,1.0
+2145,Ishaan Verma,New Delhi,90.9,49.4,Yes,1.0
+2031,Arjun Gupta,Gorakhpur,53.9,25.8,No,0.0
+1372,Amit Kapoor,Gorakhpur,60.8,66.3,N,1.0
+1667,Sneha Desai,Roorkee,75.2,32.7,No,0.0
+2525,Anjali Gupta,Roorkee,72.1,,Yes,1.0
+1357,Rohan Sharma,Gaziabad,77.6,38.2,Yes,1.0
+1967, sneha verma ,NEW DELHI,91.9,39.5,No,0.0
+1783,Riya Sharma,ghaziabad,73.4,34.0,Yes,1.0
+1735,Neha Gupta,Gorakhpur,963.4,46.5,Yes,1.0
+2035,Riya Kapoor,Gorakhpur,70.9,43.7,No,0.0
+1970,Priya Joshi,Gorakhpur,66.1,53.7,Yes,1.0
+2524,Ishaan Gupta,Gorakhpur,80.8,,No,0.0
+2486,Riya Reddy,New Delhi,81.8,30.2,Yes,1.0
+2523,Kavya Sharma,Roorkee ,70.5,27.9,Yes,1.0
+2490,Amit Kapoor,Ghaziabad,84.2,41.6,No,0.0
+2642,Karan Kumar,Roorkee ,96.4,34.2,No,0.0
+2252, aarav kumar ,Roorkee,664.2,40.9,Yes,1.0
+2693,Meera Kapoor,New Delhi,73.3,32.0,No,0.0
+2749,Anjali Verma,New Delhi,61.6,,No,0.0
+2236,Ishaan Verma,ghaziabad,,-36.9,No,0.0
+1885,Karan Kumar,gorakhpur,,26.8,Yes,0.0
+1079,Neha Joshi,Ghaziabad,63.7,28.7,Yes,0.0
+2172,Arjun Kapoor,Roorkee,97.8,35.1,Yes,1.0
+1814,Neha Desai,Ghaziabad,76.0,48.5,Yes,1.0
+2285,Rahul Kapoor,Gorakhpur,96.1,47.0,Yes,1.0
+1671,Ishaan Reddy,New  Delhi,73.1,49.9,Yes,1.0
+2531,Aarav Verma,Gorakhpur,76.1,35.9,No,0.0
+1057,Karan Desai,Gorakhpur,72.1,43.0,No,0.0
+1133,Vikram Kapoor,Ghaziabad,92.4,40.1,Yes,1.0
+2140,Riya Patel,New Delhi,87.2,39.3,N/A,0.0
+1933,Kavya Singh,Ghaziabad,70.4,47.8,Yes,1.0
+2684,Anjali Kumar,Gorakhpur,,-51.0,Yes,0.0
+1823,Karan Reddy,Ghaziabad,72.2,49.9,Yes,1.0
+2214,Neha Sharma,New  Delhi,,,No,0.0
+1504, rohan patel ,Roorkee ,94.8,42.0,No,0.0
+2774,Karan Singh,NEW DELHI,75.5,41.1,No,0.0
+1347,Rahul Kumar,Ghaziabad,51.7,46.1,Yes,1.0
+1386,Ishaan Kapoor,Roorkee,80.7,-46.1,No,0.0
+2024, karan gupta ,NEW DELHI,77.9,40.7,Yes,1.0
+1894,Sneha Kapoor,Roorkee,63.3,38.1,No,0.0
+1828,Ishaan Patel,Ghaziabad,77.5,53.2,Yes,1.0
+2892,Rahul Singh,New Delhi,64.1,38.0,No,0.0
+1475,Rohan Gupta,Gorakhpur,85.6,47.2,No,1.0
+2470,Ishaan Reddy,New Delhi,46.4,31.4,No,0.0
+2447,Priya Kapoor,Ghaziabad,60.8,57.5,Yes,1.0
+2581, aarav sharma ,Roorkee,70.7,18.9,No,0.0
+1652,Karan Patel,NEW DELHI,,42.0,No,0.0
+1172, rahul kumar ,Gorakhpur,87.9,38.4,No,0.0
+2149,Priya Singh,Ghaziabad,64.3,54.4,Yes,1.0
+1038,Anjali Desai,Roorkee,76.3,-37.0,Yes,1.0
+1713,Rahul Kapoor,New Delhi,79.6,48.2,Yes,1.0
+1090, riya joshi ,Ghaziabad,73.1,47.4,N,1.0
+2936,Kavya Kumar,Gorakhpur,83.1,,Yes,1.0
+2205,Arjun Kumar,Ghaziabad,99.2,50.0,N/A,1.0
+1875,Rohan Joshi,New Delhi,97.1,36.5,No,0.0
+2351,Kavya Gupta,NEW DELHI,72.5,42.1,No,0.0
+2889,Anjali Reddy,Roorkee ,94.4,28.9,Yes,1.0
+2093,Sneha Patel,New Delhi,68.4,,Yes,0.0
+2155,Priya Reddy,gorakhpur,,53.9,Yes,1.0
+2781,Anjali Desai,Roorkee,94.4,47.6,Yes,1.0
+2809,Meera Gupta,Gorakhpur,83.0,48.4,N,1.0
+1499,Amit Reddy,Gorakhpur,96.0,49.2,No,1.0
+1338,Amit Joshi,NEW DELHI,,36.3,Yes,0.0
+2188,Sneha Joshi,Roorkee ,84.8,,No,0.0
+1028,Priya Sharma,Gorakhpur,88.4,47.5,No,1.0
+2217,Vikram Reddy,Roorkee,50.8,19.6,No,0.0
+2399,Aarav Singh,gorakhpur,81.0,44.7,No,0.0
+2820,Priya Desai,New Delhi,79.2,18.7,Yes,1.0
+1945,Vikram Reddy,Roorkee,78.6,49.0,Yes,1.0
+1169,Sneha Gupta,Ghaziabad,53.3,,No,0.0
+2404,Ishaan Singh,Ghaziabad,95.3,46.9,Yes,1.0
+2197,Rohan Verma,New Delhi,79.7,41.9,No,0.0
+2253,Karan Kumar,Gorakhpur,70.0,32.1,N,0.0
+2613,Priya Gupta,gorakhpur,74.5,42.7,No,0.0
+1912,Neha Joshi,New Delhi,85.6,42.3,No,0.0
+1491,Priya Sharma,Roorkee,71.1,36.0,No,0.0
+1953,Meera Kumar,New Delhi,45.3,47.5,Yes,1.0
+2097,Neha Kapoor,Gorakhpur,54.8,-24.0,No,0.0
+2032, ishaan kapoor ,New Delhi,93.5,36.8,Yes,1.0
+1587,Amit Patel,Gorakhpur,60.2,,Yes,0.0
+1750,Ishaan Reddy,Roorkee ,91.7,33.5,No,0.0
+1657,Neha Desai,Ghaziabad,82.6,40.5,Yes,1.0
+1234,Amit Kumar,Gorakhpur,121.2,51.2,No,1.0
+1732,Rohan Gupta,Roorkee,57.1,,Yes,0.0
+2634,Arjun Desai,Gorakhpur,80.2,52.9,No,1.0
+2632,Priya Sharma,gorakhpur,62.4,,Yes,0.0
+2156,Ishaan Desai,Gorakhpur,60.1,37.2,Yes,0.0
+2469,Rohan Gupta,Roorkee,80.0,-38.4,Yes,1.0
+2424,Sneha Verma,New Delhi,68.2,52.6,No,1.0
+2627,Arjun Kumar,Ghaziabad,113.3,33.6,Yes,1.0
+1934,Rahul Gupta,New Delhi,94.7,54.0,Yes,1.0
+2209, kavya kumar ,Gorakhpur,77.3,57.1,No,1.0
+2065, vikram kumar ,NEW DELHI,80.1,30.1,Yes,1.0
+1108,Anjali Singh,Gorakhpur,85.3,23.9,No,0.0
+2542,Ishaan Desai,Ghaziabad,87.6,36.3,Yes,1.0
+1568,Kavya Singh,New Delhi,827.3,47.0,Yes,1.0
+2167,Rohan Sharma,New  Delhi,102.2,33.4,Yes,1.0
+2174,Vikram Gupta,Gaziabad,982.3,23.3,,0.0
+1890,Vikram Sharma,Roorkee ,71.9,,No,0.0
+1947,Priya Singh,Roorkee,280.9,19.6,Yes,
+2048,Priya Joshi,New Delhi,83.1,39.6,Yes,1.0
+2352,Meera Patel,Roorkee,61.6,50.0,No,1.0
+2777,Riya Verma,Gorakhpur,720.3,,No,
+2446,Anjali Reddy,Roorkee,82.0,55.2,Yes,1.0
+1884,Arjun Gupta,ghaziabad,65.7,41.9,N/A,0.0
+2672,Amit Verma,New  Delhi,73.5,35.1,No,0.0
+1850,Neha Gupta,Gaziabad,79.1,46.5,No,1.0
+1734,Karan Patel,Gorakhpur,73.0,40.1,Y,1.0
+1717,Kavya Gupta,Gorakhpur,82.4,47.3,Yes,1.0
+1454,Neha Desai,Roorkee,77.6,,Yes,1.0
+1264,Ishaan Kumar,Roorkee,90.1,34.2,No,0.0
+1075,Rohan Singh,Gorakhpur,78.4,48.5,No,1.0
+2657,Sneha Verma,New Delhi,62.4,46.8,Yes,1.0
+1444,Sneha Singh,New Delhi,,-31.8,Yes,0.0
+1395,Neha Sharma,Roorkee,89.1,34.8,N/A,0.0
+1176,Arjun Kapoor,Gorakhpur,82.8,55.3,No,1.0
+2042,Rahul Singh,Gorakhpur,61.8,25.9,Yes,0.0
+2735,Arjun Singh,Roorkee,73.4,27.6,Yes,1.0
+2401,Ishaan Kapoor,Roorkee,64.8,33.2,Yes,0.0
+2380,Amit Patel,Roorkee,74.3,25.9,No,0.0
+1595,Amit Kumar,New Delhi,51.1,,No,0.0
+1061,Neha Verma,gorakhpur,96.0,26.0,No,0.0
+2296,Ishaan Verma,Ghaziabad,75.2,49.0,N,1.0
+1872,Arjun Patel,Gaziabad,79.0,46.4,No,1.0
+2489, amit patel ,NEW DELHI,60.6,37.9,Yes,0.0
+2878,Sneha Sharma,Roorkee,,48.6,Yes,1.0
+1278,Sneha Kapoor,Ghaziabad,44.4,29.9,Yes,0.0
+1036,Neha Reddy,Gorakhpur,97.4,43.4,Yes,1.0
+2733,Priya Desai,New Delhi,47.5,29.5,No,0.0
+1662,Vikram Singh,Ghaziabad,60.5,44.2,Yes,0.0
+2004,Ishaan Desai,Ghaziabad,29.7,41.8,No,0.0
+2444,Karan Patel,Ghaziabad,72.2,23.7,No,0.0
+1977,Rahul Singh,Roorkee,72.1,51.3,No,1.0
+2571,Aarav Gupta,Roorkee,83.8,36.0,No,0.0
+1738,Rohan Gupta,Gaziabad,62.7,19.1,No,0.0
+1191,Rohan Patel,Gaziabad,61.5,44.9,No,0.0
+1919,Amit Patel,Gorakhpur,77.4,29.7,No,0.0
+1456,Vikram Sharma,Roorkee ,69.6,41.7,No,0.0
+1675,Priya Patel,Roorkee,74.6,38.3,No,0.0
+1760,Ishaan Desai,Gorakhpur,93.0,-20.6,No,0.0
+2807,Anjali Kumar,Roorkee,663.1,,Yes,1.0
+2602,Neha Sharma,New Delhi,45.4,,No,0.0
+1728,Rohan Desai,Ghaziabad,72.9,27.8,Yes,1.0
+1412,Kavya Sharma,Ghaziabad,,,No,0.0
+2098,Karan Kumar,New Delhi,78.7,41.5,Yes,1.0
+1825,Neha Kumar,New Delhi,83.7,-43.3,Yes,1.0
+2639,Neha Gupta,Roorkee,69.4,38.4,Yes,0.0
+1616,Neha Reddy,Roorkee,89.6,51.0,No,1.0
+1114,Kavya Patel,Gorakhpur,107.2,46.3,No,1.0
+1417,Kavya Desai,Ghaziabad,,44.9,Y,0.0
+2910,Aarav Singh,Roorkee,69.1,50.0,No,1.0
+1969,Sneha Reddy,ghaziabad,61.4,33.5,No,0.0
+1604,Ishaan Verma,Roorkee,64.2,48.9,No,1.0
+2918,Ishaan Kapoor,Roorkee,53.8,,No,0.0
+1089,Karan Sharma,Roorkee,75.6,38.6,N/A,0.0
+1848,Vikram Reddy,Ghaziabad,85.9,46.7,N/A,1.0
+2519,Vikram Kumar,gorakhpur,252.2,50.9,No,1.0
+2917,Kavya Singh,ghaziabad,83.8,32.6,No,0.0
+1753,Aarav Gupta,ghaziabad,68.5,31.1,No,0.0
+1498,Anjali Gupta,New Delhi,66.4,45.7,Yes,1.0
+2276,Sneha Desai,gorakhpur,88.5,52.7,No,1.0
+2325,Arjun Verma,Ghaziabad,69.7,-55.6,No,0.0
+1011,Neha Singh,ghaziabad,76.0,,Yes,1.0
+1396, meera sharma ,Ghaziabad,76.4,35.4,Yes,1.0
+1284,Karan Kumar,Roorkee,52.8,51.4,No,
+2066,Anjali Kumar,Ghaziabad,80.9,54.1,Yes,1.0
+2191,Neha Singh,Roorkee,62.0,57.0,Yes,1.0
+2744,Ishaan Gupta,New Delhi,67.0,24.3,No,0.0
+1690,Rahul Gupta,New  Delhi,79.1,48.0,No,1.0
+2752,Anjali Kumar,Ghaziabad,74.4,,No,0.0
+2875,Aarav Desai,Roorkee,94.7,34.3,No,
+1689,Arjun Singh,ghaziabad,96.2,52.1,No,1.0
+1851,Rohan Verma,gorakhpur,60.5,41.5,Yes,0.0
+1159,Sneha Gupta,ghaziabad,92.4,47.9,No,1.0
+1895,Rohan Reddy,Roorkee ,61.7,42.7,No,0.0
+2575,Aarav Gupta,Ghaziabad,49.2,,No,0.0
+1257,Anjali Patel,Roorkee,63.6,-22.0,Yes,0.0
+1335,Ishaan Kumar,New Delhi,85.8,28.7,Yes,
+2879,Amit Verma,gorakhpur,56.3,28.9,Yes,0.0
+2039,Rahul Kumar,New Delhi,91.1,26.3,Yes,1.0
+1515,Riya Gupta,Gaziabad,81.0,46.5,No,1.0
+2348,Aarav Desai,Ghaziabad,89.0,42.6,No,0.0
+2015,Neha Patel,Roorkee,62.1,51.3,No,1.0
+1768,Amit Sharma,Gorakhpur,74.6,57.7,No,1.0
+2746, amit kumar ,gorakhpur,75.0,37.7,N/A,0.0
+1761, anjali desai ,Roorkee ,56.2,43.5,No,0.0
+2246,Neha Desai,New Delhi,54.3,34.4,No,0.0
+2203,Rahul Desai,gorakhpur,64.5,31.3,No,0.0
+2467, karan sharma ,Ghaziabad,60.7,40.8,Yes,0.0
+1654,Neha Gupta,Ghaziabad,65.2,,Yes,0.0
+1521,Amit Verma,Roorkee ,72.4,48.8,Yes,1.0
+1022,Amit Kapoor,New Delhi,52.8,32.8,Yes,0.0
+1356, kavya patel ,Roorkee ,54.8,47.4,No,
+2277,Amit Verma,New Delhi,,28.6,No,0.0
+2312,Neha Kapoor,New Delhi,85.1,37.1,,0.0
+2682,Priya Reddy,Ghaziabad,449.8,52.1,Yes,1.0
+1340,Priya Kumar,Gorakhpur,69.6,51.6,Yes,1.0
+1431,Rohan Patel,Ghaziabad,54.3,,No,0.0
+1473,Karan Verma,New Delhi,82.6,39.7,No,0.0
+1217,Meera Joshi,Ghaziabad,91.8,25.6,Yes,1.0
+1911,Priya Verma,Gorakhpur,73.5,40.2,Yes,1.0
+2227,Riya Singh,Roorkee,64.6,43.3,No,0.0
+2596,Ishaan Desai,NEW DELHI,,41.5,Yes,0.0
+2011,Aarav Kumar,Ghaziabad,47.5,39.7,Yes,0.0
+2949,Amit Patel,Roorkee,80.2,,,0.0
+1093,Sneha Joshi,Ghaziabad,78.2,27.5,Yes,1.0
+2008,Amit Kumar,New Delhi,82.1,45.1,No,1.0
+2070,Anjali Reddy,Gorakhpur,84.6,,No,0.0
+2092,Karan Kapoor,New Delhi,67.9,,Yes,0.0
+2914,Aarav Verma,Gorakhpur,100.0,30.6,No,0.0
+2308,Karan Kumar,New Delhi,68.1,-39.3,No,0.0
+1696,Aarav Desai,Gorakhpur,,53.0,No,1.0
+2827,Meera Gupta,NEW DELHI,60.1,58.3,Yes,1.0
+1996, rahul verma ,Roorkee,84.9,49.4,No,1.0
+1153,Aarav Patel,Gaziabad,94.6,40.2,No,0.0
+2099,Karan Desai,Ghaziabad,76.5,45.9,Y,1.0
+2718,Rohan Singh,New Delhi,211.8,39.5,,0.0
+2824,Rohan Gupta,Ghaziabad,89.9,57.0,N/A,1.0
+1789,Arjun Singh,ghaziabad,68.6,34.6,Yes,0.0
+1580,Rohan Kumar,Ghaziabad,,64.4,Yes,1.0
+1703,Anjali Gupta,Gaziabad,56.2,35.0,Yes,0.0
+2212,Riya Desai,Gorakhpur,49.2,42.8,Yes,0.0
+2295,Neha Singh,Ghaziabad,69.4,25.9,Yes,0.0
+2665,Aarav Desai,Roorkee,71.7,28.5,No,0.0
+2260,Amit Reddy,Ghaziabad,58.6,48.4,No,1.0
+1487,Sneha Joshi,Ghaziabad,,35.0,No,0.0
+1559,Anjali Reddy,Gorakhpur,91.6,51.9,No,1.0
+2141,Neha Kapoor,New Delhi,91.3,49.2,Yes,1.0
+2119,Meera Sharma,New Delhi,60.7,44.2,No,0.0
+1801, anjali patel ,NEW DELHI,,-34.9,Yes,0.0
+1512,Amit Gupta,Gorakhpur,75.6,41.2,No,0.0
+1633, karan kumar ,New  Delhi,67.0,,No,0.0
+2921,Meera Kumar,Gorakhpur,73.7,45.5,No,1.0
+2787,Vikram Gupta,Gorakhpur,74.7,32.7,Yes,1.0
+2545,Priya Joshi,New Delhi,56.4,41.1,Yes,0.0
+2150, meera patel ,Gorakhpur,74.1,,No,0.0
+1790,Rohan Singh,Roorkee ,84.5,,N/A,0.0
+1116,Priya Sharma,gorakhpur,65.1,48.5,Y,1.0
+1740,Ishaan Reddy,New Delhi,49.5,54.6,No,1.0
+2690,Aarav Singh,New Delhi,77.2,33.9,Yes,1.0
+2081,Rohan Singh,Roorkee,51.0,44.6,No,0.0
+1830,Rohan Singh,Ghaziabad,94.8,38.8,No,0.0
+1119,Sneha Joshi,Roorkee,57.0,,,0.0
+1656,Meera Singh,New Delhi,69.4,30.1,Y,0.0
+2907,Neha Singh,Gorakhpur,77.1,48.5,Yes,1.0
+1635,Kavya Sharma,Ghaziabad,76.1,52.3,No,1.0
+1369,Kavya Desai,NEW DELHI,65.8,25.9,Yes,0.0
+1268,Karan Patel,gorakhpur,83.7,38.0,Yes,1.0
+1655,Anjali Joshi,Gaziabad,37.1,40.6,Yes,0.0
+1935,Arjun Reddy,New Delhi,66.6,37.9,No,0.0
+1822,Kavya Kapoor,Ghaziabad,59.1,44.3,No,0.0
+1866,Rahul Kumar,Ghaziabad,81.4,49.0,Yes,1.0
+1046,Priya Desai,Roorkee,64.5,36.7,Y,0.0
+2373,Aarav Kapoor,Ghaziabad,88.7,34.5,No,
+2708,Karan Desai,Gorakhpur,89.7,18.9,No,0.0
+1991,Vikram Kumar,ghaziabad,62.7,39.8,No,0.0
+1876,Ishaan Kapoor,Roorkee,88.3,42.3,Yes,1.0
+1773,Kavya Reddy,ghaziabad,73.5,,Yes,1.0
+2219,Neha Kumar,Roorkee,67.8,22.3,Yes,0.0
+2509,Meera Patel,New Delhi,516.2,41.4,,0.0
+1004,Riya Desai,Roorkee,68.0,45.4,Yes,1.0
+2003,Vikram Joshi,gorakhpur,95.4,26.9,No,0.0
+2723,Riya Gupta,Roorkee,,34.7,Yes,0.0
+1263,Arjun Kapoor,Gorakhpur,62.1,36.2,Yes,0.0
+2569,Kavya Kumar,Roorkee,97.0,,Yes,1.0
+2830,Arjun Kapoor,Ghaziabad,88.4,,Yes,1.0
+1443,Kavya Verma,New Delhi,72.5,,No,0.0
+2002,Amit Sharma,Ghaziabad,75.9,42.8,Yes,1.0
+2077,Meera Verma,Gorakhpur,72.3,,No,0.0
+1837,Riya Joshi,Roorkee,,-36.8,Yes,0.0
+2790,Priya Verma,Ghaziabad,69.3,47.2,Yes,1.0
+1304,Anjali Verma,New  Delhi,78.3,44.4,No,0.0
+2365,Ishaan Reddy,Roorkee,69.3,43.3,Yes,0.0
+2557, kavya reddy ,New Delhi,82.7,,No,0.0
+1313,Anjali Joshi,Roorkee,87.3,40.7,Yes,1.0
+1149,Priya Kapoor,Gorakhpur,94.2,,No,0.0
+2148,Karan Desai,Gorakhpur,81.8,-34.7,Yes,1.0
+2213, rohan gupta ,gorakhpur,87.2,37.3,No,0.0
+1574,Meera Kapoor,Gorakhpur,55.6,34.0,N/A,0.0
+1050,Arjun Patel,Ghaziabad,53.8,35.8,,0.0
+2552,Meera Joshi,Ghaziabad,694.6,46.1,No,1.0
+1726,Arjun Desai,Gorakhpur,,43.8,No,0.0
+1833,Riya Joshi,ghaziabad,60.0,35.0,Yes,0.0
+2377,Anjali Gupta,Roorkee,,,N/A,0.0
+2115,Neha Singh,Ghaziabad,75.2,,Yes,1.0
+2166,Rohan Joshi,Ghaziabad,64.4,49.3,No,1.0
+1470,Kavya Reddy,Gaziabad,64.3,33.3,Yes,0.0
+1971,Aarav Singh,Gorakhpur,43.0,71.4,Yes,1.0
+1653, vikram patel ,Roorkee,112.0,37.0,Yes,1.0
+1399,Amit Kumar,New Delhi,93.8,31.1,No,0.0
+1511,Kavya Kapoor,NEW DELHI,,44.4,Yes,0.0
+1320,Amit Joshi,Roorkee,102.7,51.3,No,1.0
+1019,Kavya Sharma,Roorkee ,55.1,42.0,No,0.0
+1684,Rohan Kumar,Ghaziabad,61.9,17.2,No,0.0
+1035,Vikram Singh,Ghaziabad,89.6,48.0,Yes,1.0
+1902,Karan Kapoor,Ghaziabad,67.8,41.5,No,
+2778,Anjali Singh,Roorkee,83.0,,Yes,1.0
+1827,Rahul Gupta,Gorakhpur,80.1,37.0,No,
+2853,Anjali Joshi,Gorakhpur,,39.1,No,0.0
+1407,Neha Kumar,New Delhi,68.3,,Yes,0.0
+1920,Meera Singh,NEW DELHI,94.0,31.3,N/A,0.0
+1537,Neha Verma,Gaziabad,51.7,,No,0.0
+1758,Neha Sharma,Ghaziabad,69.8,42.6,No,0.0
+2904,Riya Kumar,Gorakhpur,47.3,31.1,Yes,0.0
+2062,Riya Gupta,New Delhi,83.1,40.5,No,0.0
+2199,Sneha Reddy,Roorkee,,35.1,Yes,0.0
+1245,Rahul Gupta,NEW DELHI,88.9,59.1,No,1.0
+2416,Ishaan Gupta,ghaziabad,75.3,48.9,No,1.0
+2127,Aarav Kapoor,Gorakhpur,59.1,28.0,Yes,0.0
+1784,Kavya Gupta,New Delhi,88.3,,Yes,1.0
+2742,Riya Reddy,Roorkee,85.3,54.7,No,1.0
+1489,Aarav Kumar,Roorkee,80.6,,No,0.0
+1154,Aarav Singh,Roorkee,85.2,36.9,Yes,1.0
+1961,Sneha Sharma,ghaziabad,78.8,44.7,Yes,1.0
+1853,Sneha Kumar,New  Delhi,77.1,,Yes,1.0
+2311,Rohan Singh,Ghaziabad,56.5,51.6,Yes,1.0
+1625,Karan Verma,Gorakhpur,57.4,27.7,Yes,0.0
+1685,Amit Desai,Roorkee,79.3,,Yes,1.0
+2561,Rohan Kapoor,Gorakhpur,69.3,37.9,No,0.0
+1569,Neha Verma,New Delhi,94.3,37.4,No,0.0
+2908,Rohan Sharma,New Delhi,,,,0.0
+1017,Riya Desai,Gorakhpur,87.3,27.8,No,0.0
+1127, priya singh ,Gorakhpur,61.1,39.4,No,0.0
+2346,Priya Singh,New Delhi,48.9,51.1,Yes,1.0
+2279,Amit Kumar,gorakhpur,84.0,46.7,Yes,1.0
+1737,Aarav Desai,New Delhi,68.2,31.8,Yes,0.0
+1927,Ishaan Joshi,Gaziabad,73.0,,Yes,1.0
+1980,Sneha Reddy,New Delhi,74.7,36.1,No,0.0
+2458,Arjun Gupta,New Delhi,94.0,-31.5,Yes,1.0
+1190,Vikram Sharma,Roorkee ,89.3,34.2,Yes,1.0
+2139,Ishaan Desai,Gorakhpur,,50.0,Yes,1.0
+1992,Karan Verma,Roorkee,206.0,23.7,Yes,1.0
+1815,Sneha Kumar,Roorkee,82.3,31.5,No,0.0
+2656,Meera Singh,Ghaziabad,58.2,36.4,Yes,0.0
+1606,Sneha Singh,Roorkee ,64.9,42.8,No,0.0
+1180,Meera Patel,Roorkee,76.5,32.3,No,0.0
+1301, neha sharma ,Gaziabad,79.2,,Yes,1.0
+1496, rahul singh ,Ghaziabad,262.7,32.7,Yes,1.0
+2720, meera sharma ,Ghaziabad,75.7,40.5,No,0.0
+2709, vikram kumar ,Gorakhpur,92.3,53.9,Yes,1.0
+2887,Aarav Desai,Gorakhpur,72.8,,N/A,0.0
+2208,Aarav Patel,Roorkee,,46.8,Yes,1.0
+1517,Amit Kapoor,New Delhi,56.6,25.4,No,0.0
+1680,Priya Patel,Ghaziabad,45.6,60.6,Yes,1.0
+2069,Meera Singh,New Delhi,57.4,48.5,No,1.0
+1476,Arjun Sharma,gorakhpur,81.9,46.1,No,1.0
+1157,Meera Singh,Ghaziabad,62.7,60.9,No,1.0
+2243,Rahul Kapoor,Roorkee,70.8,44.2,N,0.0
+2195,Kavya Desai,New Delhi,69.2,44.2,No,0.0
+1016, rahul desai ,New Delhi,74.8,29.4,N/A,0.0
+2535,Aarav Singh,Gorakhpur,89.3,29.8,,0.0
+2072,Anjali Verma,New Delhi,80.0,46.2,,1.0
+1385,Karan Kapoor,Ghaziabad,77.7,26.6,Yes,1.0
+1546,Rahul Gupta,Roorkee,86.0,39.2,No,0.0
+2539,Neha Patel,NEW DELHI,81.5,44.7,No,0.0
+1658,Priya Patel,Ghaziabad,48.0,-33.5,No,0.0
+2625,Amit Kapoor,Roorkee,90.7,43.5,,0.0
+2019,Neha Desai,Roorkee,72.6,49.4,No,1.0
+2662,Sneha Kapoor,Ghaziabad,,,Yes,0.0
+2504,Rahul Singh,Gaziabad,56.0,57.0,N/A,1.0
+1959,Vikram Sharma,New Delhi,68.0,,Yes,0.0
+2881,Vikram Singh,Roorkee,79.5,29.2,Yes,1.0
+1283,Vikram Sharma,gorakhpur,,47.7,Yes,1.0
+1797, anjali joshi ,New Delhi,202.9,60.6,No,1.0
+2626,Kavya Reddy,Roorkee,70.6,37.6,No,0.0
+1225, sneha joshi ,Gorakhpur,104.5,40.4,N/A,0.0
+1026,Aarav Gupta,Ghaziabad,154.7,46.1,Yes,1.0
+2770,Amit Kumar,New Delhi,105.7,40.0,No,0.0
+1437,Sneha Verma,gorakhpur,,,No,0.0
+2948,Kavya Kumar,Ghaziabad,,29.0,No,0.0
+2388,Priya Singh,Gorakhpur,56.5,46.6,Yes,1.0
+1229,Vikram Singh,Roorkee,,34.2,No,0.0
+1037,Vikram Verma,Gaziabad,513.0,30.8,Yes,1.0
+1749,Neha Reddy,Roorkee ,74.9,53.1,No,1.0
+2045,Riya Gupta,Roorkee,71.7,13.6,Yes,1.0
+2398,Vikram Reddy,Gorakhpur,76.7,,Y,1.0
+1469,Rahul Reddy,Gorakhpur,88.5,37.9,No,0.0
+2692,Rohan Patel,Ghaziabad,85.4,28.6,No,0.0
+2011,Aarav Kumar,Ghaziabad,47.5,39.7,Yes,0.0
+1687,Sneha Sharma,Ghaziabad,51.0,,No,0.0
+2843,Arjun Sharma,New Delhi,92.1,40.3,Y,1.0
+1639,Karan Kumar,New Delhi,58.9,31.1,No,0.0
+2712,Amit Kapoor,Gaziabad,59.8,34.8,Yes,0.0
+2218,Riya Patel,Ghaziabad,83.1,41.8,Yes,1.0
+2158,Rohan Verma,New Delhi,,46.2,Yes,1.0
+2415,Aarav Joshi,Ghaziabad,111.2,42.2,No,0.0
+2527,Rohan Patel,Roorkee ,67.7,33.9,No,0.0
+2655,Karan Sharma,Gorakhpur,62.5,36.4,No,0.0
+2300,Amit Kumar,Gaziabad,947.3,48.9,Yes,1.0
+2822,Rohan Gupta,New Delhi,123.6,63.1,No,1.0
+1800,Meera Singh,New Delhi,65.6,46.0,,1.0
+2603,Arjun Sharma,Roorkee,63.6,42.9,Yes,0.0
+1160,Karan Kapoor,Gaziabad,84.4,46.3,Yes,1.0
+1956,Anjali Verma,New Delhi,,37.1,No,0.0
+2186,Vikram Singh,Gaziabad,92.8,50.1,Yes,1.0
+1821,Neha Reddy,NEW DELHI,,44.5,No,0.0
+2681,Neha Reddy,Roorkee,70.6,,Y,1.0
+1877,Arjun Joshi,Gorakhpur,106.6,28.9,No,0.0
+1913,Rahul Desai,Gorakhpur,89.3,42.9,No,0.0
+1152,Rohan Sharma,Gorakhpur,87.4,48.1,No,1.0
+2870,Rohan Reddy,Ghaziabad,62.2,41.0,N/A,0.0
+2776,Arjun Kapoor,Ghaziabad,85.4,47.3,No,1.0
+1509, anjali patel ,Gorakhpur,82.8,34.3,No,
+2135,Rohan Kapoor,New Delhi,51.2,47.9,No,1.0
+2250,Meera Verma,Roorkee,499.8,27.0,Yes,1.0
+2683,Rahul Gupta,Roorkee,78.8,53.8,No,1.0
+1103,Aarav Sharma,Gorakhpur,89.3,46.5,No,1.0
+2445,Karan Gupta,Ghaziabad,93.1,47.8,No,1.0
+2443,Neha Verma,Roorkee,,10.1,Yes,0.0
+1586,Rohan Singh,New  Delhi,49.6,39.0,No,0.0
+2768,Ishaan Kapoor,Roorkee,80.0,37.7,Yes,1.0
+2143,Kavya Gupta,New  Delhi,67.0,45.4,,1.0
+1053,Anjali Kumar,New Delhi,103.3,41.7,Yes,1.0
+1151,Amit Reddy,Roorkee,71.7,51.0,Yes,1.0
+1403,Rahul Kapoor,ghaziabad,,48.9,No,1.0
+2942, vikram patel ,Roorkee,91.8,41.9,N/A,0.0
+1207,Riya Verma,Ghaziabad,97.3,48.8,No,1.0
+2894,Rahul Sharma,Ghaziabad,74.9,37.8,N,0.0
+2122,Karan Desai,Ghaziabad,85.4,14.4,Yes,1.0
+2890,Vikram Patel,New  Delhi,69.5,38.5,Yes,0.0
+1008,Ishaan Reddy,Ghaziabad,59.8,43.1,No,0.0
+2014,Sneha Gupta,New Delhi,,29.7,No,0.0
+2906,Kavya Joshi,Ghaziabad,42.1,,No,0.0
+2060,Anjali Joshi,Ghaziabad,100.1,38.9,Yes,1.0
+1452,Meera Kapoor,Gorakhpur,,40.5,Y,0.0
+1253,Kavya Reddy,Roorkee ,82.5,30.2,Yes,1.0
+2327,Rohan Sharma,New  Delhi,82.5,26.0,No,0.0
+1896,Karan Reddy,Gorakhpur,892.2,18.4,No,0.0
+2733,Priya Desai,New Delhi,47.5,29.5,No,0.0
+1880, karan gupta ,Roorkee,71.3,31.6,Yes,1.0
+2595,Karan Desai,Roorkee,,42.4,Yes,0.0
+2888,Rohan Desai,New Delhi,67.1,44.9,No,0.0
+1623,Ishaan Singh,Roorkee,90.5,,No,0.0
+1345,Priya Sharma,Ghaziabad,67.2,50.5,Yes,1.0
+2702,Riya Gupta,Ghaziabad,77.6,26.6,Y,1.0
+1262,Meera Patel,Roorkee,65.2,40.5,No,0.0
+2634,Arjun Desai,Gorakhpur,80.2,52.9,No,1.0
+2321,Priya Sharma,Roorkee,80.8,50.9,Yes,1.0
+2438,Amit Reddy,Gorakhpur,65.9,37.7,Yes,0.0
+1150,Amit Joshi,Gorakhpur,83.2,38.0,Yes,1.0
+1472,Anjali Verma,Ghaziabad,89.3,36.6,No,0.0
+1640,Priya Kapoor,New Delhi,945.5,37.6,Yes,
+2289,Kavya Kumar,Gorakhpur,100.5,50.7,No,1.0
+2882,Meera Sharma,Gorakhpur,68.4,51.8,Yes,1.0
+1550,Riya Kumar,Roorkee,,38.6,Yes,0.0
+2779, sneha gupta ,Ghaziabad,75.3,25.4,Yes,1.0
+1928, rohan singh ,Roorkee,86.9,22.5,No,0.0
+1488,Priya Kapoor,Ghaziabad,90.4,29.1,Yes,1.0
+2811,Vikram Kumar,Roorkee ,88.1,36.8,N/A,0.0
+2171, amit reddy ,Gaziabad,57.2,45.2,Yes,1.0
+1146,Sneha Verma,Roorkee ,62.6,34.4,Yes,0.0
+2704,Ishaan Gupta,ghaziabad,,37.8,,0.0
+2928,Anjali Verma,Gorakhpur,85.1,55.3,Yes,1.0
+1402,Riya Sharma,Roorkee,90.5,25.1,Yes,1.0
+1954,Amit Joshi,Ghaziabad,58.9,,Yes,0.0
+2877,Priya Kumar,gorakhpur,69.3,,Yes,0.0
+1659,Rohan Desai,Roorkee,31.7,42.9,No,0.0
+2372, arjun kapoor ,New Delhi,73.8,31.7,Yes,1.0
+1463,Anjali Kumar,Ghaziabad,56.6,38.2,Yes,0.0
+2349, ishaan gupta ,Gaziabad,80.0,48.0,Yes,1.0
+1186,Arjun Sharma,Gorakhpur,62.4,34.0,Yes,0.0
+2147, aarav kumar ,Gorakhpur,39.1,39.3,Yes,0.0
+2224,Priya Sharma,Roorkee,64.5,35.1,Yes,0.0
+1608,Karan Kapoor,New Delhi,82.9,32.7,Yes,1.0
+1143,Vikram Kumar,Gaziabad,80.4,33.1,No,0.0
+1751,Arjun Gupta,New Delhi,89.2,46.8,Yes,1.0
+2534,Meera Gupta,Ghaziabad,75.6,44.4,No,0.0
+1981,Vikram Gupta,New Delhi,91.9,49.5,Yes,1.0
+1197,Amit Gupta,Roorkee,802.9,40.5,No,0.0
+2633,Rahul Patel,Ghaziabad,87.5,42.4,No,0.0
+1883,Rohan Reddy,Roorkee,75.7,57.0,Yes,1.0
+1279,Ishaan Gupta,Gorakhpur,46.9,36.5,No,0.0
+1293,Meera Gupta,Roorkee,71.0,,No,0.0
+2823,Priya Kumar,Roorkee,72.3,38.9,Yes,1.0
+1400,Meera Reddy,Roorkee,72.2,,No,0.0
+1122,Kavya Gupta,Gorakhpur,56.1,49.2,No,1.0
+2207,Anjali Kumar,Gorakhpur,54.0,42.1,No,0.0
+1202, vikram reddy ,Gorakhpur,78.6,60.5,No,1.0
+2462,Vikram Kapoor,Gorakhpur,50.2,,No,0.0
+1835,Neha Joshi,Gorakhpur,71.4,36.3,Yes,1.0
+1246,Priya Joshi,gorakhpur,54.0,,No,0.0
+2439,Karan Kumar,Roorkee,,-36.1,Y,0.0
+2753,Kavya Sharma,Ghaziabad,89.0,41.8,N/A,0.0
+2901,Ishaan Patel,Gorakhpur,89.3,42.4,No,0.0
+2707,Arjun Verma,Roorkee,64.2,27.2,No,0.0
+2880, priya reddy ,Roorkee ,54.0,53.2,Yes,1.0
+2153,Aarav Desai,gorakhpur,102.3,40.4,No,0.0
+2661,Priya Singh,Gorakhpur,77.8,53.9,No,1.0
+2426, vikram singh ,Roorkee,64.0,,Yes,0.0
+1384,Kavya Verma,NEW DELHI,73.9,46.2,No,1.0
+2758,Arjun Desai,Gorakhpur,62.8,29.3,N/A,0.0
+1854,Sneha Desai,Gaziabad,78.8,39.4,No,0.0
+2589,Priya Reddy,Roorkee,99.3,59.5,N,1.0
+1219,Neha Desai,New Delhi,58.5,44.9,Yes,0.0
+1641,Aarav Singh,Roorkee,47.5,45.1,Yes,1.0
+1001, amit patel ,NEW DELHI,84.7,55.2,Yes,1.0
+1112,Rohan Gupta,gorakhpur,64.0,42.2,Yes,0.0
+1698,Amit Desai,NEW DELHI,85.2,51.6,No,1.0
+2915,Anjali Verma,Gaziabad,99.2,36.8,Yes,1.0
+1951,Anjali Patel,Roorkee,,33.8,No,0.0
+2648,Arjun Verma,gorakhpur,247.8,23.1,No,0.0
+2636,Vikram Reddy,Gorakhpur,67.2,61.6,No,1.0
+2885, amit joshi ,Roorkee,741.0,,,0.0
+2410,Anjali Kapoor,Roorkee,98.9,37.9,Yes,1.0
+2409,Amit Gupta,Gorakhpur,74.0,48.9,Y,1.0
+2533,Arjun Sharma,Gorakhpur,49.0,54.9,Yes,1.0
+2291,Anjali Joshi,Gorakhpur,59.5,44.0,Yes,0.0
+2808,Anjali Kapoor,Roorkee ,94.1,-38.5,No,0.0
+1441, priya sharma ,New Delhi,91.0,51.7,Yes,1.0
+2520, ishaan gupta ,Gorakhpur,55.6,-45.7,Yes,0.0
+2136,Meera Kumar,gorakhpur,89.6,,N,0.0
+2715,Aarav Joshi,Gorakhpur,70.1,37.9,No,0.0
+2256,Meera Gupta,New  Delhi,73.0,41.8,,0.0
+2863,Arjun Reddy,Ghaziabad,60.1,,N/A,0.0
+2631,Aarav Singh,New  Delhi,104.6,39.8,No,0.0
+2695,Anjali Reddy,Roorkee,67.8,27.4,No,0.0
+2397, kavya gupta ,ghaziabad,67.0,52.0,N,1.0
+1663,Meera Patel,Ghaziabad,64.7,39.4,No,0.0
+2835,Rohan Patel,Gorakhpur,,37.1,Yes,0.0
+2257,Rahul Gupta,Roorkee,34.7,42.6,Yes,0.0
+2773,Karan Sharma,New Delhi,,35.8,No,0.0
+2700,Karan Gupta,Gorakhpur,100.4,59.0,No,1.0
+1317,Rahul Patel,Roorkee,71.3,37.3,No,0.0
+1648,Karan Kumar,Roorkee,,,No,0.0
+2434,Aarav Patel,New Delhi,,,N,0.0
+2479,Aarav Joshi,Gorakhpur,337.8,39.4,Yes,1.0
+1709,Ishaan Singh,Gorakhpur,69.5,31.6,No,0.0
+2382,Riya Reddy,Ghaziabad,93.7,39.4,No,0.0
+2282,Rohan Gupta,Roorkee,85.6,47.9,Yes,1.0
+1972,Meera Singh,Gorakhpur,90.8,42.2,N,0.0
+1627,Anjali Singh,Roorkee,71.1,57.3,Yes,1.0
+1632,Ishaan Verma,Ghaziabad,94.7,,Yes,1.0
+2306,Vikram Gupta,New Delhi,85.7,47.6,Yes,1.0
+2400,Riya Patel,Ghaziabad,82.8,30.2,Yes,1.0
+2408,Anjali Sharma,Ghaziabad,65.2,-32.7,No,0.0
+2248,Kavya Kumar,Gorakhpur,51.2,21.2,Yes,0.0
+1634,Sneha Reddy,Ghaziabad,76.1,,Yes,1.0
+2254,Arjun Sharma,New  Delhi,81.5,,No,0.0
+2496,Aarav Sharma,New Delhi,,22.1,Yes,0.0
+2371,Priya Kapoor,Gorakhpur,73.6,22.2,Yes,1.0
+2529,Vikram Desai,Ghaziabad,72.9,47.4,No,1.0
+2663,Sneha Verma,New Delhi,71.9,48.0,Yes,1.0
+2354, priya singh ,New Delhi,203.0,38.8,Yes,1.0
+2925,Meera Kumar,New Delhi,71.1,36.6,Yes,1.0
+2900,Riya Reddy,Ghaziabad,63.9,51.9,No,1.0
+2643,Meera Patel,New Delhi,41.2,28.2,Yes,0.0
+2848,Neha Sharma,Roorkee,53.7,34.8,No,0.0
+1795,Rahul Kumar,Roorkee,81.5,49.0,N/A,1.0
+1645,Sneha Singh,Gorakhpur,69.2,44.6,No,0.0
+2012,Anjali Reddy,Gorakhpur,80.0,30.5,No,0.0
+2839,Vikram Verma,New Delhi,96.8,48.1,Yes,1.0
+1556,Vikram Desai,New Delhi,77.3,43.6,Yes,1.0
+1681,Arjun Singh,ghaziabad,57.1,39.6,Yes,0.0
+1577,Rohan Reddy,Roorkee,89.7,36.8,Yes,1.0
+2109,Ishaan Verma,Roorkee ,86.7,,Yes,1.0
+2266, amit desai ,NEW DELHI,73.6,50.2,No,1.0
+2722,Riya Reddy,Roorkee,,39.4,Yes,0.0
+2183,Riya Gupta,ghaziabad,73.7,41.9,Yes,1.0
+1524,Kavya Verma,Roorkee ,65.6,44.0,No,0.0
+2059,Rohan Patel,Roorkee ,63.9,32.0,Yes,0.0
+1540,Ishaan Reddy,Ghaziabad,70.2,-60.8,No,0.0
+2194,Sneha Kapoor,Ghaziabad,73.4,45.0,No,0.0
+2678,Meera Patel,Gorakhpur,56.0,55.3,No,1.0
+1748,Amit Singh,Ghaziabad,65.6,48.3,No,1.0
+2851,Amit Singh,Roorkee,48.4,44.7,No,0.0
+2430,Meera Gupta,New Delhi,64.2,47.5,Yes,
+1484,Karan Sharma,Ghaziabad,65.5,,No,0.0
+2757,Aarav Joshi,New Delhi,318.6,32.1,Yes,1.0
+1095,Anjali Reddy,New Delhi,61.7,41.5,No,0.0
+2020,Rahul Singh,Gorakhpur,71.6,47.6,No,1.0
+1563,Ishaan Verma,New Delhi,74.0,43.3,No,0.0
+2264,Anjali Reddy,New Delhi,71.4,54.3,N/A,1.0
+1742,Kavya Kapoor,gorakhpur,,34.3,Yes,0.0
+1863,Neha Sharma,Roorkee,46.7,37.0,Yes,0.0
+2598,Aarav Sharma,New Delhi,73.3,42.5,Yes,1.0
+2714,Aarav Sharma,Roorkee,61.1,24.0,Yes,0.0
+2484,Vikram Joshi,Gaziabad,67.4,40.3,Yes,0.0
+1891,Kavya Kapoor,Ghaziabad,,-34.2,No,0.0
+2577,Neha Gupta,Gorakhpur,85.9,,Yes,1.0
+2038,Anjali Kapoor,Gorakhpur,,48.1,Yes,
+1206,Neha Reddy,Gorakhpur,59.7,37.3,No,0.0
+1392,Rahul Sharma,Gorakhpur,58.8,50.5,No,1.0
+1794,Neha Kumar,Gorakhpur,58.9,,No,0.0
+1870,Kavya Sharma,Gorakhpur,,,Yes,0.0
+1397,Neha Sharma,Gorakhpur,,36.9,No,0.0
+1766,Riya Gupta,New Delhi,82.7,34.7,Yes,1.0
+2841,Karan Sharma,Gaziabad,66.4,50.9,Yes,1.0
+2241,Anjali Desai,Ghaziabad,59.4,47.4,Yes,1.0
+2028,Meera Joshi,New Delhi,81.1,38.8,Yes,1.0
+2792,Amit Desai,New Delhi,,,Yes,0.0
+1642,Arjun Joshi,Roorkee,58.4,18.5,Yes,0.0
+2891,Amit Sharma,ghaziabad,54.1,45.9,Yes,1.0
+1612,Priya Kumar,Gorakhpur,96.9,,No,0.0
+2762,Sneha Desai,Ghaziabad,64.6,30.8,Yes,0.0
+1960,Anjali Kapoor,Roorkee,114.7,25.0,No,0.0
+2570,Sneha Verma,Roorkee,85.0,32.8,Yes,1.0
+1725,Riya Verma,Roorkee,83.5,22.4,Yes,1.0
+1683, riya kapoor ,New  Delhi,40.5,,,0.0
+1098,Karan Patel,ghaziabad,91.2,,Yes,1.0
+1804,Kavya Singh,New Delhi,69.6,45.1,Yes,1.0
+2751,Rahul Gupta,Ghaziabad,83.7,,No,0.0
+2597, vikram gupta ,Roorkee,92.7,51.6,No,1.0
+1406,Anjali Joshi,New Delhi,109.5,36.4,Yes,1.0
+1502,Kavya Kapoor,gorakhpur,88.4,46.4,,1.0
+2071,Ishaan Kumar,Roorkee,71.1,21.6,No,0.0
+2056,Rahul Desai,Roorkee,85.1,46.8,No,1.0
+1929,Kavya Verma,Roorkee,94.6,23.4,Yes,1.0
+1779,Meera Gupta,Ghaziabad,38.6,48.8,No,1.0
+1200,Priya Kumar,Gorakhpur,90.9,55.4,No,1.0
+1134,Rahul Kapoor,Ghaziabad,209.9,44.6,Yes,1.0
+2051,Amit Kapoor,New Delhi,76.8,55.5,Yes,1.0
+1040,Anjali Reddy,Roorkee,71.7,43.6,No,0.0
+2017,Arjun Reddy,New Delhi,85.9,35.1,Yes,1.0
+1230,Meera Singh,Gorakhpur,70.9,17.0,Yes,1.0
+2513,Anjali Patel,New Delhi,85.1,22.4,Yes,1.0
+2796,Karan Joshi,Roorkee,89.8,33.8,No,0.0
+1378,Amit Singh,New Delhi,77.7,36.7,No,0.0
+1288,Vikram Reddy,New Delhi,68.1,31.5,No,0.0
+1418,Sneha Sharma,Gorakhpur,79.3,64.6,No,1.0
+2698,Neha Gupta,New Delhi,91.3,36.2,,0.0
+1391,Meera Sharma,Gorakhpur,79.1,27.2,No,0.0
+1592,Amit Desai,Roorkee,83.3,30.3,Yes,1.0
+2522,Neha Desai,Gorakhpur,57.6,37.2,,0.0
+2162,Karan Sharma,New Delhi,48.4,44.1,Yes,0.0
+2086,Priya Gupta,Ghaziabad,360.0,,Yes,1.0
+2495,Arjun Gupta,Ghaziabad,68.0,37.1,Yes,0.0
+1647,Vikram Sharma,Roorkee,83.5,46.0,Yes,1.0
+2152,Ishaan Reddy,Roorkee,77.9,53.2,Yes,1.0
+2367,Arjun Desai,New Delhi,46.2,,No,0.0
+1520,Anjali Singh,Gorakhpur,,39.6,Yes,0.0
+2862, arjun desai ,Roorkee,72.5,42.1,No,0.0
+1064,Karan Kumar,Roorkee,76.5,35.0,N,0.0
+2836,Rohan Sharma,Roorkee,73.2,,Yes,1.0
+1014,Priya Joshi,Gorakhpur,66.0,37.1,Y,0.0
+2180,Rohan Patel,Ghaziabad,48.8,38.7,No,0.0
+2064,Sneha Desai,Roorkee,65.1,34.0,No,0.0
+1492,Riya Sharma,Ghaziabad,111.0,-39.8,Y,1.0
+1379,Ishaan Singh,Roorkee,104.6,,No,0.0
+1187,Anjali Joshi,ghaziabad,,34.7,,0.0
+1763,Priya Desai,Ghaziabad,67.1,47.7,Y,1.0
+1216,Amit Verma,Roorkee,74.9,44.0,Yes,1.0
+1791, neha gupta ,Roorkee,90.3,66.6,Yes,1.0
+2076,Amit Patel,ghaziabad,72.1,36.4,Yes,1.0
+1878,Anjali Kapoor,Ghaziabad,746.5,57.5,Yes,1.0
+1337,Arjun Reddy,ghaziabad,56.7,47.1,Yes,1.0
+2772,Priya Sharma,Gorakhpur,63.3,50.8,Yes,1.0
+1719,Riya Gupta,Gorakhpur,77.7,27.0,Yes,1.0
+2748,Aarav Gupta,Gorakhpur,76.0,36.4,Yes,1.0
+1295,Amit Patel,Gaziabad,86.4,30.8,Yes,1.0
+2725,Karan Kumar,Roorkee,100.7,22.5,Yes,1.0
+2016,Meera Joshi,Roorkee,70.9,32.2,Yes,1.0
+2275, meera reddy ,New Delhi,65.9,17.9,No,0.0
+2750, ishaan gupta ,Roorkee,,61.2,Yes,1.0
+2485,Aarav Patel,Gaziabad,37.7,33.4,No,0.0
+1455,Priya Verma,New Delhi,72.2,36.0,Y,1.0
+1553,Priya Kapoor,New Delhi,65.6,59.1,Yes,1.0
+1815,Sneha Kumar,Roorkee,82.3,31.5,No,0.0
+2886,Arjun Sharma,ghaziabad,,35.4,Yes,0.0
+1269, kavya verma ,Gorakhpur,80.6,,No,0.0
+1995,Riya Kapoor,Gorakhpur,75.0,31.8,No,0.0
+1201,Karan Joshi,New Delhi,62.6,,No,0.0
+1161,Kavya Singh,Roorkee ,74.8,31.0,Yes,
+2579,Vikram Kumar,ghaziabad,62.9,47.1,Yes,1.0
+1729,Ishaan Joshi,Gorakhpur,71.9,31.5,Yes,1.0
+1401,Riya Joshi,NEW DELHI,96.7,42.0,N,0.0
+1702,Aarav Sharma,New Delhi,84.1,53.1,Yes,1.0
+2500,Sneha Verma,New Delhi,73.6,34.7,No,0.0
+2845,Arjun Sharma,Gaziabad,74.8,43.0,Yes,1.0
+2795,Riya Patel,Ghaziabad,,40.3,No,0.0
+2129,Aarav Gupta,Gorakhpur,68.1,28.6,No,0.0
+1565,Arjun Singh,Ghaziabad,99.2,44.5,Yes,1.0
+2413,Rahul Verma,gorakhpur,,-36.3,Yes,0.0
+2021,Kavya Verma,New Delhi,74.0,59.8,Yes,1.0
+2025,Kavya Joshi,Roorkee,,50.6,No,1.0
+2411,Anjali Kapoor,Gorakhpur,74.3,,Yes,
+2895,Vikram Gupta,New Delhi,69.4,,No,0.0
+2585,Ishaan Kapoor,gorakhpur,76.1,37.3,Yes,1.0
+2104,Karan Singh,Ghaziabad,52.1,,No,0.0
+1205,Priya Singh,NEW DELHI,90.4,41.7,No,0.0
+1034,Vikram Gupta,New Delhi,59.4,39.2,No,0.0
+1775,Karan Desai,Roorkee,71.6,43.7,N,0.0
+1508,Rohan Kumar,New  Delhi,70.2,-44.2,Yes,1.0
+2451,Rahul Kumar,Roorkee,67.1,29.4,N/A,0.0
+2478,Meera Reddy,New  Delhi,74.0,31.5,N,0.0
+2579,Vikram Kumar,ghaziabad,62.9,47.1,Yes,1.0
+2390,Karan Kumar,Roorkee,61.6,44.0,Yes,
+1091,Arjun Desai,ghaziabad,476.9,,No,0.0
+2363,Rohan Patel,Ghaziabad,367.7,36.5,No,0.0
+1897,Arjun Sharma,New Delhi,,39.4,,0.0
+1564,Kavya Gupta,Ghaziabad,79.8,44.2,Yes,1.0
+2369,Neha Verma,NEW DELHI,77.8,66.9,No,1.0
+1776,Arjun Singh,Gorakhpur,,32.0,No,0.0
+1241,Sneha Verma,Ghaziabad,,31.4,Yes,0.0
+1013,Amit Singh,Roorkee,57.7,43.8,Yes,0.0
+1315,Neha Kapoor,Ghaziabad,70.0,56.7,No,
+1600, amit desai ,Gorakhpur,,40.4,No,0.0
+1387,Meera Sharma,ghaziabad,83.4,50.8,No,1.0
+2297, meera patel ,Roorkee,,55.2,Y,1.0
+1166,Amit Verma,New Delhi,62.7,42.4,No,0.0
+1840,Riya Kapoor,gorakhpur,688.4,-39.8,Yes,1.0
+1020,Aarav Patel,New  Delhi,86.1,41.7,Y,1.0
+1646,Karan Desai,NEW DELHI,68.4,51.7,Yes,1.0
+2842,Amit Singh,Gorakhpur,103.6,33.9,Yes,1.0
+2508,Ishaan Kumar,Ghaziabad,78.5,37.5,No,0.0
+2154,Aarav Reddy,Roorkee,,42.7,Y,0.0
+2528,Kavya Verma,Gorakhpur,82.4,,No,0.0
+1831,Kavya Desai,NEW DELHI,43.2,33.9,Yes,0.0
+2267,Ishaan Reddy,New Delhi,72.2,33.0,N,0.0
+2590,Aarav Patel,gorakhpur,63.4,-40.0,Yes,0.0
+2899,Sneha Kumar,NEW DELHI,58.5,25.2,No,0.0
+1562,Rahul Desai,gorakhpur,79.5,32.5,No,0.0
+2285,Rahul Kapoor,Gorakhpur,96.1,47.0,Yes,1.0
+1686,Rohan Kumar,Ghaziabad,92.1,28.8,Yes,1.0
+1957,Rohan Verma,ghaziabad,91.5,59.6,No,1.0
+1189,Neha Desai,Ghaziabad,80.1,,No,0.0
+2806,Kavya Singh,gorakhpur,54.8,42.1,No,0.0
+1975,Karan Kumar,New Delhi,83.3,40.9,No,0.0
+1699,Vikram Desai,Ghaziabad,68.2,35.6,No,0.0
+2499, karan reddy ,Ghaziabad,852.4,36.5,No,0.0
+2705,Priya Patel,Roorkee ,73.6,39.2,No,0.0
+1510,Vikram Gupta,Ghaziabad,74.6,61.4,No,1.0
+2082,Vikram Patel,ghaziabad,105.4,26.4,Yes,1.0
+1474, karan patel ,Gorakhpur,79.0,,Yes,1.0
+2584,Vikram Patel,NEW DELHI,72.2,-36.8,Yes,1.0
+1856,Karan Kapoor,Roorkee,71.7,,No,0.0
+1747,Riya Desai,Gaziabad,99.5,49.6,Yes,1.0
+1252,Aarav Kumar,gorakhpur,66.3,,No,0.0
+1021, riya patel ,Roorkee,73.3,37.0,Yes,1.0
+2337,Ishaan Desai,New Delhi,,-31.2,No,0.0
+1459, sneha joshi ,New Delhi,80.5,34.7,No,0.0
+2184,Priya Reddy,New Delhi,78.0,,Yes,1.0
+1276, anjali joshi ,Gorakhpur,88.1,36.7,Yes,1.0
+1955,Priya Kumar,Gorakhpur,106.1,,No,0.0
+2215,Arjun Singh,New Delhi,107.1,32.5,Yes,1.0
+1385,Karan Kapoor,Ghaziabad,77.7,26.6,Yes,1.0
+1805,Rohan Desai,Gorakhpur,79.8,39.7,Yes,1.0
+2437,Ishaan Gupta,New  Delhi,88.1,54.7,No,1.0
+2515, sneha verma ,Gorakhpur,97.6,,No,0.0
+1343,Amit Joshi,Roorkee ,79.9,27.5,No,0.0
+1769,Vikram Reddy,Gorakhpur,99.9,35.4,Yes,
+2332,Rahul Gupta,Ghaziabad,59.1,54.8,No,1.0
+2685, meera kumar ,New Delhi,82.0,53.5,No,1.0
+1130,Ishaan Joshi,New Delhi,99.5,25.7,No,0.0
+2687,Sneha Joshi,gorakhpur,109.1,48.9,Yes,1.0
+1871,Aarav Reddy,Gaziabad,80.2,51.6,Yes,1.0
+2123,Priya Sharma,Roorkee,64.0,-29.8,Yes,
+2396,Karan Desai,New Delhi,,30.0,No,0.0
+1087,Riya Joshi,Roorkee,,-39.7,No,0.0
+2482,Anjali Verma,Ghaziabad,47.0,36.1,No,0.0
+1330,Amit Joshi,Gorakhpur,,19.3,Yes,0.0
+2238,Amit Gupta,New Delhi,522.9,46.1,No,1.0
+1466,Karan Sharma,Roorkee,71.7,28.5,No,0.0
+1121,Kavya Desai,Ghaziabad,101.5,44.0,Yes,1.0
+2638,Rahul Gupta,New Delhi,44.6,48.1,Yes,1.0
+2044,Arjun Singh,Roorkee ,52.1,,Yes,0.0
+2724,Ishaan Patel,Ghaziabad,93.3,,Yes,1.0
+2095,Rahul Reddy,New  Delhi,,33.5,No,0.0
+2130,Anjali Sharma,Ghaziabad,96.9,22.8,No,0.0
+2294,Kavya Gupta,New Delhi,,32.2,,0.0
+1860,Kavya Singh,New  Delhi,84.9,36.1,Y,1.0
+2459,Rahul Verma,Roorkee,83.2,,Yes,1.0
+2126,Aarav Singh,Gaziabad,,51.3,Yes,
