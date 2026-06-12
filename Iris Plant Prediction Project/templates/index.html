@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iris AI Predictor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="background-blur blur1"></div>
+<div class="background-blur blur2"></div>
+
+<div class="container">
+
+    <div class="left-panel">
+        <img src="{{ url_for('static', filename='iris.png') }}" alt="Iris Flower" class="flower-image">
+        <h1>🌸 Iris AI Predictor</h1>
+        <p>Predict Iris flower species using Machine Learning and Feature Engineering.</p>
+    </div>
+
+    <div class="right-panel">
+        <h2>Enter Flower Measurements</h2>
+        
+        <form method="POST">
+            <div class="input-box">
+                <label>Sepal Length (cm)</label>
+                <input type="number" step="any" name="sl" required>
+            </div>
+
+            <div class="input-box">
+                <label>Sepal Width (cm)</label>
+                <input type="number" step="any" name="sw" required>
+            </div>
+
+            <div class="input-box">
+                <label>Petal Length (cm)</label>
+                <input type="number" step="any" name="pl" required>
+            </div>
+
+            <div class="input-box">
+                <label>Petal Width (cm)</label>
+                <input type="number" step="any" name="pw" required>
+            </div>
+
+            <button type="submit">Predict Species</button>
+        </form>
+
+        {% if prediction %}
+        <div class="result-card">
+            <h3>Prediction Result</h3>
+            <div class="prediction">
+                {{ prediction }}
+            </div>
+        </div>
+        {% endif %}
+
+    </div>
+</div>
+
+</body>
+</html>
