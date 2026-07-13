@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Exhaust, Decoded — CO₂ Emissions Predictor</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<link rel="stylesheet" href="../static/styles.css">
+</head>
+<body>
+
+<div class="grain"></div>
+<div class="glow" data-parallax="0.15"></div>
+<div class="glow b" data-parallax="0.08"></div>
+
+<div class="particles" aria-hidden="true">
+  <div class="particle-layer" data-parallax="0.35">
+    <span class="particle p1"></span>
+    <span class="particle p2"></span>
+    <span class="particle p3"></span>
+  </div>
+  <div class="particle-layer" data-parallax="0.6">
+    <span class="particle p4"></span>
+    <span class="particle p5"></span>
+  </div>
+</div>
+
+<div class="scroll-dial" id="scroll-dial" aria-hidden="true">
+  <span id="scroll-dial-label">0</span>
+</div>
+
+<section class="hero" id="hero">
+  <div class="molecule-stage" aria-hidden="true"><canvas id="molecule-canvas"></canvas></div>
+
+  <nav class="topnav">
+    <div class="badge">
+      <div class="badge-mark">CO₂</div>
+      <div><b>EMISSIONS</b><span>&nbsp;/ ML</span></div>
+    </div>
+    <ul class="nav-links">
+      <li><a href="#form">Predict</a></li>
+      <li><a href="#method">Method</a></li>
+      <li><a href="#result">Data</a></li>
+    </ul>
+    <a href="#form" class="btn nav-cta">Let's decode it →</a>
+  </nav>
+
+  <div class="hero-copy">
+    <div class="eyebrow" style="justify-content:center;">Emissions Intelligence · Predictive Model</div>
+    <h1 class="display reveal-lines">
+      <span class="line-mask"><span class="line-inner">EVERY ENGINE</span></span>
+      <span class="line-mask"><span class="line-inner accent">LEAVES A TRACE.</span></span>
+    </h1>
+    <div class="side-labels">
+      <div class="side-label left">Trained on<br>real fleet data</div>
+      <div class="side-label right">Built for<br>cleaner roads</div>
+    </div>
+    <p class="sub">We model the exhaust of thousands of vehicles down to the gram — turning fuel specs into one honest number: CO₂ emitted per kilometer.</p>
+    <a href="#form" class="btn">Run the model ↓</a>
+  </div>
+
+  <div class="hero-stats">
+    <div class="stat"><b id="stat-1">0</b><span>fuel types supported</span></div>
+    <div class="stat"><b>±12 g/km</b><span>typical model error</span></div>
+    <div class="stat"><b id="stat-2">0</b><span>vehicle classes covered</span></div>
+  </div>
+
+  <div class="scroll-cue"><span>Scroll</span><div class="scroll-cue-line"></div></div>
+</section>
+
+<section class="section reveal" id="form">
+  <div class="section-head">
+    <div>
+      <div class="eyebrow">The Specs</div>
+      <h2 class="h-display reveal-lines">
+        <span class="line-mask"><span class="line-inner">TELL US ABOUT</span></span>
+        <span class="line-mask"><span class="line-inner">THE CAR.</span></span>
+      </h2>
+    </div>
+    <p class="section-note">Every field below feeds the model. The more precise the fuel consumption figures, the tighter the prediction.</p>
+  </div>
+
+  <form id="predict-form" method="POST" action="/" nonvalidate>
+    <div class="form-groups">
+
+      <div class="group">
+        <div class="group-label">Identity</div>
+        <div class="field-grid">
+          <div class="field">
+            <label for="make">Make</label>
+            <select id="make" name="make" required>
+              <option value="ACURA">Acura</option>
+              <option value="ALFA ROMEO">Alfa Romeo</option>
+              <option value="ASTON MARTIN">Aston Martin</option>
+              <option value="AUDI">Audi</option>
+              <option value="BENTLEY">Bentley</option>
+              <option value="BMW">BMW</option>
+              <option value="BUICK">Buick</option>
+              <option value="BUGATTI">Bugatti</option>
+              <option value="CADILLAC">Cadillac</option>
+              <option value="CHEVROLET">Chevrolet</option>
+              <option value="CHRYSLER">Chrysler</option>
+              <option value="DODGE">Dodge</option>
+              <option value="FIAT">Fiat</option>
+              <option value="FORD">Ford</option>
+              <option value="GENESIS">Genesis</option>
+              <option value="GMC">GMC</option>
+              <option value="HONDA">Honda</option>
+              <option value="HYUNDAI">Hyundai</option>
+              <option value="INFINITI">Infiniti</option>
+              <option value="JAGUAR">Jaguar</option>
+              <option value="JEEP">Jeep</option>
+              <option value="KIA">Kia</option>
+              <option value="LAMBORGHINI">Lamborghini</option>
+              <option value="LAND ROVER">Land Rover</option>
+              <option value="LEXUS">Lexus</option>
+              <option value="LINCOLN">Lincoln</option>
+              <option value="MASERATI">Maserati</option>
+              <option value="MAZDA">Mazda</option>
+              <option value="MERCEDES-BENZ">Mercedes-Benz</option>
+              <option value="MINI">MINI</option>
+              <option value="MITSUBISHI">Mitsubishi</option>
+              <option value="NISSAN">Nissan</option>
+              <option value="PORSCHE">Porsche</option>
+              <option value="RAM">Ram</option>
+              <option value="ROLLS-ROYCE">Rolls-Royce</option>
+              <option value="SCION">Scion</option>
+              <option value="SMART">Smart</option>
+              <option value="SRT">SRT</option>
+              <option value="SUBARU">Subaru</option>
+              <option value="TOYOTA">Toyota</option>
+              <option value="VOLKSWAGEN">Volkswagen</option>
+              <option value="VOLVO">Volvo</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="model">Model</label>
+            <input type="text" id="model" placeholder="Select a make first" list="model-options" autocomplete="off" disabled required>
+            <datalist id="model-options"></datalist>
+            <input type="hidden" name="model" id="model-raw">
+          </div>
+          <div class="field">
+            <label for="vclass">Vehicle Class</label>
+            <select id="vclass" name="vclass" required>
+              <option value="" disabled selected>Select a class</option>
+              <option value="TWO-SEATER">Two-seater</option>
+              <option value="COMPACT">Compact</option>
+              <option value="MID-SIZE">Mid-size</option>
+              <option value="FULL-SIZE">Full-size</option>
+              <option value="STATION WAGON - SMALL">Station wagon — small</option>
+              <option value="STATION WAGON - MID-SIZE">Station wagon — mid-size</option>
+              <option value="SUV - SMALL">SUV — small</option>
+              <option value="SUV - STANDARD">SUV — standard</option>
+              <option value="PICKUP TRUCK - SMALL">Pickup truck — small</option>
+              <option value="PICKUP TRUCK - STANDARD">Pickup truck — standard</option>
+              <option value="MINIVAN">Minivan</option>
+              <option value="SUBCOMPACT">Subcompact</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <div class="group">
+        <div class="group-label">Engine</div>
+        <div class="field-grid">
+          <div class="field">
+            <label for="engine">Engine size (L)</label>
+            <div class="slider-row">
+              <input type="range" id="engine" name="engine" min="0.9" max="8.0" step="0.1" value="2.0">
+              <div class="slider-val" id="engine-val">2.0 L</div>
+            </div>
+          </div>
+          <div class="field">
+            <label for="cyl">Cylinders</label>
+            <div class="stepper">
+              <button type="button" id="cyl-minus" aria-label="Decrease cylinders">−</button>
+              <input type="number" id="cyl" name="cyl" value="4" min="2" max="16" step="1">
+              <button type="button" id="cyl-plus" aria-label="Increase cylinders">+</button>
+            </div>
+          </div>
+          <div class="field">
+            <label for="trans">Transmission</label>
+            <select id="trans" name="trans" required>
+            <option value="" disabled selected>Select transmission</option>
+
+            <!-- Automatic -->
+            <option value="A4">Automatic — 4 Speed (A4)</option>
+            <option value="A5">Automatic — 5 Speed (A5)</option>
+            <option value="A6">Automatic — 6 Speed (A6)</option>
+            <option value="A7">Automatic — 7 Speed (A7)</option>
+            <option value="A8">Automatic — 8 Speed (A8)</option>
+            <option value="A9">Automatic — 9 Speed (A9)</option>
+            <option value="A10">Automatic — 10 Speed (A10)</option>
+
+            <!-- Automated Manual -->
+            <option value="AM5">Automated Manual — 5 Speed (AM5)</option>
+            <option value="AM6">Automated Manual — 6 Speed (AM6)</option>
+            <option value="AM7">Automated Manual — 7 Speed (AM7)</option>
+            <option value="AM8">Automated Manual — 8 Speed (AM8)</option>
+            <option value="AM9">Automated Manual — 9 Speed (AM9)</option>
+
+            <!-- Automatic with Select Shift -->
+            <option value="AS4">Automatic with Select Shift — 4 Speed (AS4)</option>
+            <option value="AS5">Automatic with Select Shift — 5 Speed (AS5)</option>
+            <option value="AS6">Automatic with Select Shift — 6 Speed (AS6)</option>
+            <option value="AS7">Automatic with Select Shift — 7 Speed (AS7)</option>
+            <option value="AS8">Automatic with Select Shift — 8 Speed (AS8)</option>
+            <option value="AS9">Automatic with Select Shift — 9 Speed (AS9)</option>
+            <option value="AS10">Automatic with Select Shift — 10 Speed (AS10)</option>
+
+            <!-- CVT -->
+            <option value="AV">Continuously Variable (AV)</option>
+            <option value="AV6">Continuously Variable — 6 Speed (AV6)</option>
+            <option value="AV7">Continuously Variable — 7 Speed (AV7)</option>
+            <option value="AV8">Continuously Variable — 8 Speed (AV8)</option>
+            <option value="AV10">Continuously Variable — 10 Speed (AV10)</option>
+
+            <!-- Manual -->
+            <option value="M5">Manual — 5 Speed (M5)</option>
+            <option value="M6">Manual — 6 Speed (M6)</option>
+            <option value="M7">Manual — 7 Speed (M7)</option>
+        </select>
+          </div>
+        </div>
+      </div>
+
+      <div class="group">
+        <div class="group-label">Fuel</div>
+        <div class="field" style="margin-bottom:22px;">
+          <label>Fuel type</label>
+          <div class="chip-row" id="fuel-chips">
+            <div class="chip">
+              <input type="radio" name="fuel" id="fuel-x" value="X" checked>
+              <label for="fuel-x" style="--dotc:#F2A93B;">Regular gasoline</label>
+            </div>
+            <div class="chip">
+              <input type="radio" name="fuel" id="fuel-z" value="Z">
+              <label for="fuel-z" style="--dotc:#FF6B35;">Premium gasoline</label>
+            </div>
+            <div class="chip">
+              <input type="radio" name="fuel" id="fuel-d" value="D">
+              <label for="fuel-d" style="--dotc:#8A8F98;">Diesel</label>
+            </div>
+            <div class="chip">
+              <input type="radio" name="fuel" id="fuel-e" value="E">
+              <label for="fuel-e" style="--dotc:#42B872;">Ethanol (E85)</label>
+            </div>
+            <div class="chip">
+              <input type="radio" name="fuel" id="fuel-n" value="N">
+              <label for="fuel-n" style="--dotc:#5AC8E8;">Natural gas</label>
+            </div>
+          </div>
+        </div>
+
+        <div class="field-grid">
+          <div class="field">
+            <label for="city">City consumption</label>
+            <input type="number" id="city" name="city" placeholder="e.g. 10.5" min="1" max="35" step="0.1" required>
+            <span class="hint">L / 100 km</span>
+          </div>
+          <div class="field">
+            <label for="hwy">Highway consumption</label>
+            <input type="number" id="hwy" name="hwy" placeholder="e.g. 7.8" min="1" max="30" step="0.1" required>
+            <span class="hint">L / 100 km</span>
+          </div>
+          <div class="field">
+            <label>Combined consumption <span class="hint">(auto)</span></label>
+            <div class="readonly-field"><span id="comb-val">—</span><span class="unit">L/100km</span></div>
+          </div>
+          <div class="field">
+            <label>Combined <span class="hint">(auto)</span></label>
+            <div class="readonly-field"><span id="mpg-val">—</span><span class="unit">mpg</span></div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="run-row">
+      <button type="submit" class="btn">Run the model →</button>
+      <a href="#result" class="btn ghost" id="clear-btn" style="cursor:pointer;">Reset fields</a>
+      <div class="form-msg" id="form-msg"></div>
+    </div>
+  </form>
+</section>
+
+<section class="section reveal" id="result">
+  <div class="section-head">
+    <div>
+      <div class="eyebrow">The Readout</div>
+      <h2 class="h-display reveal-lines">
+        <span class="line-mask"><span class="line-inner">YOUR CO₂</span></span>
+        <span class="line-mask"><span class="line-inner">NUMBER.</span></span>
+      </h2>
+    </div>
+    <p class="section-note">One prediction, built from the specs you just entered — plus the factors that pushed it up or down.</p>
+  </div>
+
+  <div class="result-wrap">
+    <div class="gauge-card">
+      <div class="car-rig result-car" id="result-car" data-level="idle">
+        <div class="smoke">
+          <span class="puff"></span><span class="puff"></span><span class="puff"></span>
+          <span class="puff"></span><span class="puff"></span><span class="puff"></span>
+        </div>
+        <svg class="car-svg" viewBox="0 0 260 120" xmlns="http://www.w3.org/2000/svg">
+          <path d="M70 58 Q80 26 110 26 H168 Q192 26 198 58 Z" fill="var(--car-body)"/>
+          <rect x="18" y="58" width="200" height="30" rx="14" fill="var(--car-body)"/>
+          <rect x="112" y="34" width="70" height="24" rx="6" fill="var(--ink-2)"/>
+          <circle cx="70" cy="90" r="17" fill="var(--ink-2)" stroke="var(--paper)" stroke-width="3"/>
+          <circle cx="70" cy="90" r="5" fill="var(--paper)"/>
+          <circle cx="180" cy="90" r="17" fill="var(--ink-2)" stroke="var(--paper)" stroke-width="3"/>
+          <circle cx="180" cy="90" r="5" fill="var(--paper)"/>
+          <rect x="0" y="74" width="20" height="9" rx="4" fill="var(--steel)"/>
+          <rect x="203" y="64" width="9" height="9" rx="2" fill="var(--amber)"/>
+        </svg>
+      </div>
+
+      <div class="readout">
+        <div class="num" id="co2-num">—</div>
+        <div class="unit">grams CO₂ / km</div>
+        <div class="rating" id="rating-badge" style="visibility:hidden;">Awaiting input</div>
+      </div>
+
+      <div class="mini-bar-track">
+        <span class="z-low"></span><span class="z-mid"></span><span class="z-high"></span>
+        <div class="mini-marker" id="mini-marker"></div>
+      </div>
+      <div class="gauge-ticks"><span>0</span><span>250</span><span>500+</span></div>
+    </div>
+
+    <div class="result-side" id="result-side">
+      <div class="result-placeholder">
+        <h3>Nothing to show yet</h3>
+        <p>Fill in the specs above and hit <strong>Run the model</strong> — the exhaust, the number, and the breakdown will fill in right here.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <span>© 2026 Emissions / ML — built as a portfolio demo.</span>
+  <span id="methodology-flag">Estimate engine: fuel-based emission factors + displacement adjustment. Swap in your trained model's API to replace it.</span>
+</footer>
+
+<script src="../static/script.js"></script>
+
+</body>
+</html>
