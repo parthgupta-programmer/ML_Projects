@@ -17,7 +17,7 @@ def home():
 def predict():
 
     data = request.get_json()
-    print(data)
+    # print(data)
 
     input_df = pd.DataFrame([{
     "Make": data["make"],
@@ -47,4 +47,4 @@ def predict():
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False,host="0.0.0.0", port=5000)

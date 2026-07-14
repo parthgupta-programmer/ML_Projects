@@ -56,7 +56,7 @@
     return raw.charAt(0).toUpperCase() + raw.slice(1);
   }
 
-  fetch('../static/models_by_make.json')
+    fetch('/static/models_by_make.json')   
     .then(res => res.json())
     .then(data => { MODEL_DATA = data; })
     .catch(() => { MODEL_DATA = {}; });
