@@ -30,11 +30,27 @@
 ## 🖼️ Screenshots
 
 
-| Home | Prediction Form | Result |
-|---|---|---|
-|  <img src="CO2 Emissions Prediction Project/assets/homepage.png" width="350"> | <img src="CO2 Emissions Prediction Project/assets/prediction_form.png" width="350"> |  <img src="CO2 Emissions Prediction Project/assets/prediction.png" width="350"> |
+### Home
+
+<p align="center">
+  <img src="assets/homepage.png" width="800">
+</p>
 
 ---
+
+### Prediction Form
+
+<p align="center">
+  <img src="assets/prediction_form.png" width="800">
+</p>
+
+---
+
+### Result
+
+<p align="center">
+  <img src="assets/prediction.png" width="800">
+</p>
 
 ## 📑 Table of Contents
 
@@ -144,7 +160,7 @@ The trained model was evaluated on a held-out test set using standard regression
 | **Mean Absolute Error (MAE)** | **2.1141 g/km** |
 | **Root Mean Squared Error (RMSE)** | **3.4493 g/km** |
 
-### Performance Summary
+##  Performance Summary
 
 - **R² Score:** The model explains approximately **99.64%** of the variance in vehicle CO₂ emissions.
 - **MAE:** Predictions deviate from the actual CO₂ emissions by an average of **YOUR_MAE g/km**.
