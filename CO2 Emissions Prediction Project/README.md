@@ -98,6 +98,8 @@ Beyond producing an accurate regression model, this project follows a full, real
 
 The dataset contains vehicle records with the following attributes:
 
+*Trained on Canada Dataset
+
 | Feature | Description |
 |---|---|
 | Make | Vehicle manufacturer |
