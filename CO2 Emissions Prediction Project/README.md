@@ -57,7 +57,7 @@
 - [Overview](#-project-overview)
 - [Features](#-features)
 - [Dataset](#-dataset)
-- [Tech Stack](#-technologies-used)
+- [Tech Stack](#-tech-stack)
 - [ML Workflow](#-machine-learning-workflow)
 - [Model Evaluation](#-model-evaluation)
 - [Performance Summary](#-performance-summary)
@@ -115,7 +115,7 @@ The dataset contains vehicle records with the following attributes:
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
 **Machine Learning & Data Processing**
 - Python
